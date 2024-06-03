@@ -135,7 +135,7 @@ Comments on [[2024-02-22]]
 - [ ] https://gist.github.com/futureengine2/7c8fbc6fefce1818ff1edcd4d7e7bfcf
 - [ ] https://github.com/OrionReed/dom3d
 - [ ] https://palet.app/
-- [ ] 
+- [ ] Slate, Slate-react ...
 
 - [ ] http://elseheartbreak.com/
 - [ ] https://tomorrowcorporation.com/humanresourcemachine
