@@ -1,5 +1,5 @@
 # OrbitMines Library
-*A library for Intercommunication between Languages. Originally titled: "Project - Indexing existing Abstract Models"*
+A library for Intercommunication between Languages. The *indexing of, ..., *
 
 :github: [github.com/orbitmines/library](https://github.com/orbitmines/library) (:orbitmines: :discord: [OrbitMines](https://discord.com/channels/1055502602365845534/1200246205473619968), :semf: :discord: [SEMF](https://discord.com/channels/844566471501414463/1225907185079287971))
 
