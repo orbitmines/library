@@ -7,6 +7,7 @@ A library for Intercommunication between Languages. The *indexing, analysis ...,
 ###### Timeline
 - [ ] Finish [[Writing - 2024. A Universal Language]]
 - [ ] Finish Collaboration Setup
+	- [ ] Compile scripts for this repository, so a writing/study of this can be automatically compiled to some PDF, ..., 
 	- [ ] Collaboration tooling: Create a way of analyzing/comparing them which **does not** include manual human labor of specifying their grammars.
 - [ ] 
 
