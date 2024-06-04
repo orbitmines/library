@@ -1,5 +1,5 @@
 # OrbitMines Library
-*A library for Intercommunication between Languages (/Abstract Models)*
+*A library for Intercommunication between Languages. Originally titled: "Project - Indexing existing Abstract Models"*
 
 ---
 
