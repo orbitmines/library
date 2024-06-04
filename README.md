@@ -14,6 +14,7 @@ A library for Intercommunication between Languages. The *indexing, analysis ...,
 	- [ ] **[[III. Finding Collaborators]]**: Are there people who have compiled something like this yet? There are probably many people who are thinking about something like this in the context of *biology, meta-research, ..., other fields* too. Find out who?
 	- [ ] **[[IV. Legal]]**: Just exclude the ones without open licenses *or contact all of them to lift the licenses*.
 - **[[II. Project Index]]**
+	- [ ] The only stuff I've been able to find so far is either incredibly limited in scope or is doing too much of this by hand. Would love to find out that there's someone who has been working on this already though.
 	- [ ] 
 
 ---
