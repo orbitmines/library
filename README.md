@@ -1,5 +1,5 @@
 # OrbitMines Library
-A library for Intercommunication between Languages. The *indexing, analysis ..., comparison* of exsting abstract models of *computation, mathematics, calculi, theorem-provers, compilers, proof assistants, automated program synthesizers*
+A library for Intercommunication between Languages. The *indexing, analysis ..., comparison* of existing abstract models of *computation, mathematics, calculi, theorem-provers, compilers, proof assistants, automated program synthesizers, ..., (programming) languages*.
 
 :github: [github.com/orbitmines/library](https://github.com/orbitmines/library) (:orbitmines: :discord: [OrbitMines](https://discord.com/channels/1055502602365845534/1200246205473619968), :semf: :discord: [SEMF](https://discord.com/channels/844566471501414463/1225907185079287971))
 
@@ -11,7 +11,7 @@ A library for Intercommunication between Languages. The *indexing, analysis ...,
 
 ---
 
-*Once a proper interface for Rays is setup, one of the things I'd like to do with it, is to point it to a lot of existing abstract models of computation/mathematics/calculi/theorem-provers/compilers/proof assistants/automated program synthesizers/.../programming languages. And create a way of analyzing/comparing them which **does not** include manual human labor of specifying their grammars.*
+*Create a way of analyzing/comparing them which **does not** include manual human labor of specifying their grammars.*
 
 
 - [[Society for Multidisciplinary and Fundamental Research (SEMF)]] discord equivalent: https://discord.com/channels/844566471501414463/1225907185079287971
