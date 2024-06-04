@@ -6,6 +6,7 @@
 ---
 ###### Timeline
 - [ ] Finish [[Writing - 2024. A Universal Language]]
+- [ ] Finish [[Collaboration Setup]]
 - [ ] 
 
 ---
