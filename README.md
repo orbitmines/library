@@ -1,7 +1,7 @@
 # OrbitMines Library
 *A library for Intercommunication between Languages. Originally titled: "Project - Indexing existing Abstract Models"*
 
-[SEMF Discord equivalent]()
+:orbitmines: [OrbitMines Discord equivalent](), :semf: [SEMF Discord equivalent](https://discord.com/channels/844566471501414463/1225907185079287971)
 
 ---
 
