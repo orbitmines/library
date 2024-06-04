@@ -9,11 +9,12 @@ A library for Intercommunication between Languages. The *indexing, analysis ...,
 - **Collaboration Setup**
 	- [ ] Collaboration tooling: Create a way of analyzing/comparing them which **does not** include manual human labor of specifying their grammars.
 	- [ ] Compile scripts for this repository, so a writing/study of this can be automatically compiled to some PDF, ..., LaTeX setting.
-- **People**
-	- [ ] **[[I. People Index]]**: Compile a list of people who need to be contacted for this
-		- **[[IV. Legal]]**: Just exclude the ones without open licenses *or contact all of them to lift the licenses*.
+- **[[I. People Index]]**
+	- [ ] Compile a list of people who need to be contacted for this
 	- [ ] **[[III. Finding Collaborators]]**: Are there people who have compiled something like this yet? There are probably many people who are thinking about something like this in the context of *biology, meta-research, ..., other fields* too. Find out who?
-- 
+	- [ ] **[[IV. Legal]]**: Just exclude the ones without open licenses *or contact all of them to lift the licenses*.
+- **[[II. Project Index]]**
+	- [ ] 
 
 ---
 Comments on [[2024-04-05]]
@@ -26,10 +27,7 @@ Comments on [[2024-04-05]]
 
 ---
 #### Some interesting/pending questions regarding this project:
-*[[ONGOING Project Logistics]]*
 
-- [ ] **People:** Are there people who have compiled something like this yet?
-	- [ ] **Legal:** *Compile a list of people who need to be contacted for this: Just exclude the ones without open licenses. ; or if the project is big enough might as well contact all of them to lift the licenses*
 - [ ] **Differentiation:** Measurement of category if diversity for the thing its useful for ; this is essentially the closeness idea ([More usefully: How much do I need to change/ignore before they're the same to me?](https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=More%20usefully%3A%20How%20much%20do%20I%20need%20to%20change/ignore%20before%20they%27re%20the%20same%20to%20me%3F)) 
 	- Basically, how much shifting/.../ignoring do I have to do before particular kind of symmetries/equivalences are reached so there's an/.../better interface into it.
 	- Becomes "contextual/.../computational closeness?"
