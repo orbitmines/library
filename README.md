@@ -11,12 +11,6 @@ A library for Intercommunication between Languages. The *indexing, analysis ...,
 - [ ] 
 
 ---
-
-
-
-- [[Society for Multidisciplinary and Fundamental Research (SEMF)]] discord equivalent: https://discord.com/channels/844566471501414463/1225907185079287971
-
----
 Comments on [[2024-04-05]]
 
 >This thing is probably way too big a project, but thinking about it will probably get much easier in the coming years. I'm preemptively putting this here mainly because I want to find out if there are currently (or have been) people attempting something like this.
