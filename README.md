@@ -9,7 +9,7 @@ A library for Intercommunication between Languages. The *indexing, analysis ...,
 - Collaboration Setup
 	- [ ] Collaboration tooling: Create a way of analyzing/comparing them which **does not** include manual human labor of specifying their grammars.
 	- [ ] Compile scripts for this repository, so a writing/study of this can be automatically compiled to some PDF, ..., LaTeX setting.
-- [ ] 
+- 
 
 ---
 Comments on [[2024-04-05]]
@@ -25,7 +25,6 @@ Comments on [[2024-04-05]]
 *[[ONGOING Project Logistics]]*
 
 - [ ] **People:** Are there people who have compiled something like this yet?
-	- [ ] Are there people who have been thinking about game-invariant puzzles?
 	- [ ] There are probably many people who are thinking about something like this in the context of biology, and probably other fields too. Find out who?
 	- [ ] This could involve people who are interested in studying researchers/projects. Find out who?
 	- [ ] **Legal:** *Compile a list of people who need to be contacted for this: Just exclude the ones without open licenses. ; or if the project is big enough might as well contact all of them to lift the licenses*
