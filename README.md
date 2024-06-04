@@ -1,4 +1,8 @@
-# Project - Indexing existing Abstract Models (2024-2025?)
+# OrbitMines Library
+*A library for Intercommunication between Languages (/Abstract Models)*
+
+---
+
 *Once a proper interface for Rays is setup, one of the things I'd like to do with it, is to point it to a lot of existing abstract models of computation/mathematics/calculi/theorem-provers/compilers/proof assistants/automated program synthesizers/.../programming languages. And create a way of analyzing/comparing them which **does not** include manual human labor of specifying their grammars.*
 
 - Rays are probably a [Characteristica_universalis](https://en.wikipedia.org/wiki/Characteristica_universalis) (Or rather a Universal Language, or as [[Jonathan Gorard]] phrased a similar concept; a "general theory of graphs" (See [[Category Theory]] notes when at [[Society for Multidisciplinary and Fundamental Research (SEMF)]]))
@@ -11,16 +15,9 @@ Comments on [[2024-04-05]]
 
 >This thing is probably way too big a project, but thinking about it will probably get much easier in the coming years. I'm preemptively putting this here mainly because I want to find out if there are currently (or have been) people attempting something like this.
 >
-> The only stuff I've been able to find so far is either incredibly limited in scope or is doing too much of this by hand. Would love to find out that there's someone who has been working on this already though :upside_down:
+>The only stuff I've been able to find so far is either incredibly limited in scope or is doing too much of this by hand. Would love to find out that there's someone who has been working on this already though :upside_down:
 > 
 > Seamless direct (partial) inter-compilation/.../translation of things will probably become much more tractable at some point in the near future ^ Though all the more insane complexity of software/firmware/hardware to me seem to pose the most challenges.
-
-Comments on [[2024-02-22]]
-> "Also, interesting to note might be that Von Neumann and Birkhoff attempted to ground quantum mechanics using order theory (their attempt was not very successful at that)."
-> 
-> Me: "I think my intuition is trying to say something like. I want it ordered to talk about it usefully. But high-arity cases are probably more in line with ignoring/invariances of that order."
-
-*Where invariance in this case is something like a branching ray as a cursor along a ray indicating an invariance: i.e. copies over every entry.*
 
 ---
 #### Some interesting/pending questions regarding this project:
