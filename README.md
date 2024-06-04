@@ -6,12 +6,12 @@ A library for Intercommunication between Languages. The *indexing, analysis ...,
 ---
 ###### Timeline
 - [ ] Finish [[Writing - 2024. A Universal Language]]
-- [ ] Finish [[Collaboration Setup]]
+- [ ] Finish Collaboration Setup
+	- [ ] Collaboration tooling: Create a way of analyzing/comparing them which **does not** include manual human labor of specifying their grammars.
 - [ ] 
 
 ---
 
-*Create a way of analyzing/comparing them which **does not** include manual human labor of specifying their grammars.*
 
 
 - [[Society for Multidisciplinary and Fundamental Research (SEMF)]] discord equivalent: https://discord.com/channels/844566471501414463/1225907185079287971
