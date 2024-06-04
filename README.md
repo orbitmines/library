@@ -5,11 +5,13 @@ A library for Intercommunication between Languages. The *indexing, analysis ...,
 
 ---
 ###### Timeline
-- [ ] Finish [[Writing - 2024. A Universal Language]]
-- Collaboration Setup
+- [ ] Prerequisite: [[Writing - 2024. A Universal Language]]
+- **Collaboration Setup**
 	- [ ] Collaboration tooling: Create a way of analyzing/comparing them which **does not** include manual human labor of specifying their grammars.
 	- [ ] Compile scripts for this repository, so a writing/study of this can be automatically compiled to some PDF, ..., LaTeX setting.
-- 
+- **People**
+	- [ ] Are there people who have compiled something like this yet? There are probably many people who are thinking about something like this in the context of biology, and probably other fields too. Find out who?
+	- [ ] 
 
 ---
 Comments on [[2024-04-05]]
