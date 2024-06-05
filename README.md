@@ -1,7 +1,3 @@
-
-
-:github: [github.com/orbitmines/library](https://github.com/orbitmines/library) (:orbitmines: :discord: [OrbitMines](https://discord.com/channels/1055502602365845534/1200246205473619968), :semf: :discord: [SEMF](https://discord.com/channels/844566471501414463/1225907185079287971))
-
 <div align="center">  
   
 <picture>  
@@ -13,7 +9,12 @@
 
 A library for Intercommunication between Languages. The *indexing, analysis ..., comparison* of existing abstract models of *computation, mathematics, calculi, theorem-provers, compilers, proof assistants, automated program synthesizers, ..., (programming) languages*.
 
+[![OrbitMines Discord](https://img.shields.io/discord/1055502602365845534.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.orbitmines.com)
+
 </div>
+
+
+:github: [github.com/orbitmines/library](https://github.com/orbitmines/library) [SEMF](https://discord.com/channels/844566471501414463/1225907185079287971)
 
 ---
 ###### Timeline
