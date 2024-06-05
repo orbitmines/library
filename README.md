@@ -1,7 +1,19 @@
-# OrbitMines Library
-A library for Intercommunication between Languages. The *indexing, analysis ..., comparison* of existing abstract models of *computation, mathematics, calculi, theorem-provers, compilers, proof assistants, automated program synthesizers, ..., (programming) languages*.
+
 
 :github: [github.com/orbitmines/library](https://github.com/orbitmines/library) (:orbitmines: :discord: [OrbitMines](https://discord.com/channels/1055502602365845534/1200246205473619968), :semf: :discord: [SEMF](https://discord.com/channels/844566471501414463/1225907185079287971))
+
+<div align="center">  
+  
+<picture>  
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orbitmines/.github/blob/main/profile/orbitmines.logo.3000x1000.png">  
+  <img alt="OrbitMines Logo" src="https://github.com/orbitmines/.github/blob/main/profile/orbitmines.logo.3000x1000.png" width="50%" height="50%">  
+</picture>  
+
+# OrbitMines Library
+
+A library for Intercommunication between Languages. The *indexing, analysis ..., comparison* of existing abstract models of *computation, mathematics, calculi, theorem-provers, compilers, proof assistants, automated program synthesizers, ..., (programming) languages*.
+
+</div>
 
 ---
 ###### Timeline
