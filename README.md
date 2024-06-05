@@ -11,10 +11,9 @@ A library for Intercommunication between Languages. The *indexing, analysis ...,
 
 [![OrbitMines Discord](https://img.shields.io/discord/1055502602365845534.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.orbitmines.com)
 
+[github.com/orbitmines/library](https://github.com/orbitmines/library) - [SEMF](https://discord.com/channels/844566471501414463/1225907185079287971)
+
 </div>
-
-
-:github: [github.com/orbitmines/library](https://github.com/orbitmines/library) [SEMF](https://discord.com/channels/844566471501414463/1225907185079287971)
 
 ---
 ###### Timeline
