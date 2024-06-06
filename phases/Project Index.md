@@ -322,7 +322,20 @@ Platform interop
 
 ---
 
+- [Causal Invariance](https://www.wolframphysics.org/technical-introduction/the-updating-process-for-string-substitution-systems/the-phenomenon-of-causal-invariance/)
+	- [Wolfram Physics I: Basic Formalism, Causal Invariance and Special Relativity (2020)](https://www.youtube.com/watch?v=BV3a0PzNNqE) ; *Jonathan Gorard*
+	- [Causal invariance versus confluence]() ; *Jonathan Gorard, Mark Jeffery*
+		- [Lorentz invariance](https://en.wikipedia.org/wiki/Lorentz_covariance), [Poincaré invariance](https://en.wikipedia.org/wiki/Poincar%C3%A9_group) (special relativity), [Conformal invariance](https://en.wikipedia.org/wiki/Conformal_symmetry), [Diffeomorphism Invariance](https://en.wikipedia.org/wiki/Diffeomorphism), [General Covariance](https://en.wikipedia.org/wiki/General_covariance) (general relativity)
+		- Causal history as identifier (Interesting way of merging the idea of Confluence/Causal Invariance) - This would in the case of Rays just be generalized to any referencing on the `.self` Ray - or a selective part of it to differentiate between structure at the node, history etc... (currently already automatically the case for the `is_equivalent` function)
+	- Causal is more abstractly just some order / sorting. Where order and sorting can be abstracted away as merely some expected property to hold irrespective of input after those transformations.
+		- Or basically for Causal Invariance: Irrespective of some order in which something is applied, I can after those things which are applied say: "I can transform all those results in some way where they would be expected to be this thing."
+		- Or: After some variant application of functions, I apply some transformation which accepts all those superposed possible branches, which will all result in some invariant property (boolean check to whether I deem them as the same, or after some ordering function and some check whether I deem them as the same, ... etc.)
+		- Or: Variance is handled in such a way that after some function application we are left with something we deem invariant with respect to possible inputs.
+	- As long as you can recall/.../remember something, in the case of some eventual consistency, you're often going to be causally invariant in some respect (ignoring some difference).
 
+---
+
+~ [[2024-02-01]]
 Digesting some wikipedia articles (; mainly as exploratory, not necessarily interested in rigor on this expedition, just looking for some interesting ideas I hadn't heard of/hadn't thought of before)
 
 Assume all comments on these as quick conclusions drawn from summaries which may themselves be, as well as my interpretation of them, ignorant of the actual writings on the subject:  
