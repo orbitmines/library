@@ -41,6 +41,7 @@ A library for Intercommunication between Languages. The *indexing, analysis ...,
 		- [ ] Compiled grammar vs analysis of runtimes?
 			- [ ] What can be (partially) compiled to what using what? (Natively supported vs finding (accidental) symmetries to allow for compilation)
 			- [ ] Apply this question again by loosely changing constraints?
+			- [ ] noticing of runtime inconsistencies from some perspective ; adjustable
 		- [ ] What mistake in indexing multiple levels of descriptions ; Non-overlap, points resulting in confusion etc..
 		- [ ] Realized invariances/.../redundancies of particular layers.
 		- [ ] Part of this becomes how do certain fields/perspectives/projects have a view on other projects (partly [[PENDING (2032+?); Sociology, Economics]]). A simple example is confusion between programming fields in what the meaning of frontend/backend is. - People's fixation on using a particular word very specifically. That sort of thing.
