@@ -120,8 +120,9 @@
 
 - HSA, HIP, CUDA
 - **Wikipedia**: [Interactive_Disassembler](https://en.wikipedia.org/wiki/Interactive_Disassembler)
-- **GPU**: ,
-- [ ] - https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
+- **GPU**: [GPUOpen-Tools](https://github.com/GPUOpen-Tools), 
+- **R**: [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+- [ ] - 
 - [ ] https://lists.freedesktop.org/archives/amd-gfx/2017-February/005122.html
 - [ ] https://martty.github.io/
 - [ ] https://themaister.net/blog/
