@@ -141,13 +141,8 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 		- [ ] https://github.com/DTolm/VkFFT
 		- [ ] https://git.datenwolf.net/
 	- [ ] 
--
-- MuJoCo
+
 - https://www.mathstat.dal.ca/~selinger/quipper/
-- All the [[PENDING (2027?+) ; Physics (& Hardware)]] things... String theories, Ring Theory, ..., Knot Theory, Graph Percolation Theory, constructor theory etc... 
-	- Expand for any field
-	- https://en.wikipedia.org/wiki/Game_semantics
-	- 
 - Networking... ([[Anoma]])
 - Ah, of course, infrastructure/engineering/design things/tools:
 	- https://twitter.com/thatopencompany
@@ -179,7 +174,7 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 - [[Liubov Tupikina]]'s projects ([GitHub](https://github.com/Liyubov?tab=repositories))
 - Followed projects/people on other platforms (& some distance/filter away as preference)
 - **GitHub topics**: [interaction-design](https://github.com/topics/interaction-design), [procedural-generation](https://github.com/topics/procedural-generation), [probabilistic-programming](https://github.com/topics/probabilistic-programming), [awesome](https://github.com/topics/awesome) ([awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph)), [cellular-automata](https://github.com/topics/cellular-automata), [computational-design](https://github.com/topics/computational-design), [awesome-applied-category-theory](https://github.com/jules-hedges/awesome-applied-category-theory), [visualization](https://github.com/topics/visualization), [graph-rewriting](https://github.com/topics/graph-rewriting), [differentiable-rendering](https://github.com/topics/differentiable-rendering), [gamedev](https://github.com/topics/gamedev), [interaction-design](https://github.com/topics/interaction-design), 
-- **Wikipedia**: [Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization), [T-distributed_stochastic_neighbor_embedding](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding), [Distributive_property](https://en.wikipedia.org/wiki/Distributive_property), [Satisfiability_modulo_theories](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories), [Forbidden_graph_characterization](https://en.wikipedia.org/wiki/Forbidden_graph_characterization)
+- **Wikipedia**: [Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization), [T-distributed_stochastic_neighbor_embedding](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding), [Distributive_property](https://en.wikipedia.org/wiki/Distributive_property), [Satisfiability_modulo_theories](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories), [Forbidden_graph_characterization](https://en.wikipedia.org/wiki/Forbidden_graph_characterization), [Game_semantics](https://en.wikipedia.org/wiki/Game_semantics)
 - **Forums**: [Proof Assistants StackExchange](https://proofassistants.stackexchange.com/), all stack exchanges, [nForum](https://nforum.ncatlab.org/), [OpenWebSearch Community](https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest), 
 - **Archives**: [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/), [archive.org](https://archive.org/), [scholar.archive.org](https://scholar.archive.org/), 
 - **Proof Assistant Projects**: [Formalizing 100 Theorems](https://www.cs.ru.nl/~freek/100/), [tptp.org](https://www.tptp.org/), [ProofWiki](https://proofwiki.org/wiki/Main_Page), [CS208 Interactive Prover](https://personal.cis.strath.ac.uk/robert.atkey/cs208/prover.html), [EuroProofNet](https://europroofnet.github.io/tools/), [Coq "The Tactician"](https://coq-tactician.github.io/), [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/), [The International SAT Competition](http://satcompetition.org/), [Isabelle-Set](https://github.com/kappelmann/Isabelle-Set), [The Proof Theory Blog](https://prooftheory.blog/resources/), [Geometric Deep Learning Blogs](https://geometricdeeplearning.com/blogs/), 
@@ -188,9 +183,9 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 - **Other fields**: 
 	- **Biology** ([[PENDING (2028+?); Biology]]):
 	- **Chemistry**
-	- **Physics**: [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev), [Computational Metaphysics](https://mally.stanford.edu/cm/) ([DFG Computational Metaphysics](https://page.mi.fu-berlin.de/cbenzmueller/compmeta/htdocs/)), [Mundy Reimer's "On Thermodynamics, Agency, and Living Systems"](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems), GKEYLL, 
+	- **Physics**: [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev), [Computational Metaphysics](https://mally.stanford.edu/cm/) ([DFG Computational Metaphysics](https://page.mi.fu-berlin.de/cbenzmueller/compmeta/htdocs/)), [Mundy Reimer's "On Thermodynamics, Agency, and Living Systems"](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems), GKEYLL, MuJoCo, String theories
 	- **Cognition**: Active Inference
-	- **Mathematics**: [[Category Theory]], 
+	- **Mathematics**: [[Category Theory]], Ring Theory, Knot Theory, Graph Percolation Theory, Constructor Theory
 		- https://bartoszmilewski.com/2023/09/19/exercise-in-coherence/
 		- https://github.com/bgavran/Category_Theory_Machine_Learning
 		- https://en.wikipedia.org/wiki/Transfinite_number
