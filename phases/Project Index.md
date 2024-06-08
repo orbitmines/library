@@ -127,42 +127,42 @@
 
 - [[Liubov Tupikina]]'s projects ([GitHub](https://github.com/Liyubov?tab=repositories))
 - Followed projects/people on other platforms (& some distance/filter away as preference)
-	- **GitHub topics**: [interaction-design](https://github.com/topics/interaction-design), [procedural-generation](https://github.com/topics/procedural-generation), [probabilistic-programming](https://github.com/topics/probabilistic-programming), [awesome](https://github.com/topics/awesome), [cellular-automata](https://github.com/topics/cellular-automata), [computational-design](https://github.com/topics/computational-design), [awesome-applied-category-theory](https://github.com/jules-hedges/awesome-applied-category-theory), [visualization](https://github.com/topics/visualization), [graph-rewriting](https://github.com/topics/graph-rewriting), [differentiable-rendering](https://github.com/topics/differentiable-rendering), [gamedev](https://github.com/topics/gamedev), [interaction-design](https://github.com/topics/interaction-design), 
-	- **Wikipedia**: [Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization), [T-distributed_stochastic_neighbor_embedding](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding), [Distributive_property](https://en.wikipedia.org/wiki/Distributive_property), [Satisfiability_modulo_theories](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories), [Forbidden_graph_characterization](https://en.wikipedia.org/wiki/Forbidden_graph_characterization)
-	- **Forums**
-		- [Proof Assistants StackExchange](https://proofassistants.stackexchange.com/), all stack exchanges,
-		- [nForum](https://nforum.ncatlab.org/), [OpenWebSearch Community](https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest), 
-	- **Archives**
-		- [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/), [archive.org](https://archive.org/)
-	- **Proof Assistant Projects**: [Formalizing 100 Theorems](https://www.cs.ru.nl/~freek/100/), [tptp.org](https://www.tptp.org/), [ProofWiki](https://proofwiki.org/wiki/Main_Page), [CS208 Interactive Prover](https://personal.cis.strath.ac.uk/robert.atkey/cs208/prover.html), [EuroProofNet](https://europroofnet.github.io/tools/), [Coq "The Tactician"](https://coq-tactician.github.io/), [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/), [The International SAT Competition](http://satcompetition.org/), [Isabelle-Set](https://github.com/kappelmann/Isabelle-Set)
-	- **Other collections**
-		- [Readings on computational logic, interactive theorem proving and functional programming](https://github.com/jaalonso/Lecturas_GLC)
-		- [Formalizing Mathematics in Agda (berenoguz)](https://github.com/berenoguz/Math)
-		- [Formal Methods: Foundations and Applications](https://books.google.nl/books?hl=en&lr=lang_en&id=vznnEAAAQBAJ&oi=fnd&pg=PP6&ots=JAO2M-hF-_&sig=mbPYLt3UOr6fCMEKheQQ3-sVeao&redir_esc=y#v=onepage&q&f=false)
-		- [Computer science laboratory of the École Polytechnique](https://www.lix.polytechnique.fr/team/5/view)
-		- **Pointers from people**: [Inigo Quilez's articles](https://iquilezles.org/articles/), [Jesper Cockx's links](https://jesper.sikanda.be/links.html), [Nik Murzin's github](https://github.com/sw1sh), 
-		- 
-	- **Other fields**: 
-		- **Biology** ([[PENDING (2028+?); Biology]]):
-		- **Chemistry**
-		- **Physics**: [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev), [Computational Metaphysics](https://mally.stanford.edu/cm/) ([DFG Computational Metaphysics](https://page.mi.fu-berlin.de/cbenzmueller/compmeta/htdocs/)),  
-		- **Cognition**: Active Inference
-		- **Mathematics**: [[Category Theory]], 
-			- https://bartoszmilewski.com/2023/09/19/exercise-in-coherence/
-			- https://github.com/bgavran/Category_Theory_Machine_Learning
-			- https://en.wikipedia.org/wiki/Transfinite_number
-			- https://juliapoo.github.io/mathematics/2022/12/15/homomorphism-illustrated.html
-			- https://www.localcharts.org/t/learning-resources-for-applied-category-theory/8285
-			- https://cybercat.institute/2024/04/12/enriched-closed-lenses/
-			- https://github.com/prathyvsh/category-theory-resources
-			- https://github.com/statusfailed/catgrad
-			- https://github.com/abuseofnotation/category-theory-illustrated
-			- https://clowderproject.com/ ; https://github.com/topological-modular-forms/the-clowder-project
-		- 
-		- ...
-	- **Other concepts**: [[Mealy machines]], Bi-directional programming languages, Para lenses, [Higher-order Laplacian Renormalization](https://github.com/nplresearch/higher_order_LRG), 
+- **GitHub topics**: [interaction-design](https://github.com/topics/interaction-design), [procedural-generation](https://github.com/topics/procedural-generation), [probabilistic-programming](https://github.com/topics/probabilistic-programming), [awesome](https://github.com/topics/awesome), [cellular-automata](https://github.com/topics/cellular-automata), [computational-design](https://github.com/topics/computational-design), [awesome-applied-category-theory](https://github.com/jules-hedges/awesome-applied-category-theory), [visualization](https://github.com/topics/visualization), [graph-rewriting](https://github.com/topics/graph-rewriting), [differentiable-rendering](https://github.com/topics/differentiable-rendering), [gamedev](https://github.com/topics/gamedev), [interaction-design](https://github.com/topics/interaction-design), 
+- **Wikipedia**: [Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization), [T-distributed_stochastic_neighbor_embedding](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding), [Distributive_property](https://en.wikipedia.org/wiki/Distributive_property), [Satisfiability_modulo_theories](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories), [Forbidden_graph_characterization](https://en.wikipedia.org/wiki/Forbidden_graph_characterization)
+- **Forums**
+	- [Proof Assistants StackExchange](https://proofassistants.stackexchange.com/), all stack exchanges,
+	- [nForum](https://nforum.ncatlab.org/), [OpenWebSearch Community](https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest), 
+- **Archives**
+	- [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/), [archive.org](https://archive.org/)
+- **Proof Assistant Projects**: [Formalizing 100 Theorems](https://www.cs.ru.nl/~freek/100/), [tptp.org](https://www.tptp.org/), [ProofWiki](https://proofwiki.org/wiki/Main_Page), [CS208 Interactive Prover](https://personal.cis.strath.ac.uk/robert.atkey/cs208/prover.html), [EuroProofNet](https://europroofnet.github.io/tools/), [Coq "The Tactician"](https://coq-tactician.github.io/), [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/), [The International SAT Competition](http://satcompetition.org/), [Isabelle-Set](https://github.com/kappelmann/Isabelle-Set)
+- **Other collections**
+	- [Readings on computational logic, interactive theorem proving and functional programming](https://github.com/jaalonso/Lecturas_GLC)
+	- [Formalizing Mathematics in Agda (berenoguz)](https://github.com/berenoguz/Math)
+	- [Formal Methods: Foundations and Applications](https://books.google.nl/books?hl=en&lr=lang_en&id=vznnEAAAQBAJ&oi=fnd&pg=PP6&ots=JAO2M-hF-_&sig=mbPYLt3UOr6fCMEKheQQ3-sVeao&redir_esc=y#v=onepage&q&f=false)
+	- [Computer science laboratory of the École Polytechnique](https://www.lix.polytechnique.fr/team/5/view)
+	- **Pointers from people**: [Inigo Quilez's articles](https://iquilezles.org/articles/), [Jesper Cockx's links](https://jesper.sikanda.be/links.html), [Nik Murzin's github](https://github.com/sw1sh), 
+	- 
+- **Other fields**: 
+	- **Biology** ([[PENDING (2028+?); Biology]]):
+	- **Chemistry**
+	- **Physics**: [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev), [Computational Metaphysics](https://mally.stanford.edu/cm/) ([DFG Computational Metaphysics](https://page.mi.fu-berlin.de/cbenzmueller/compmeta/htdocs/)), [Mundy Reimer's Thermodynamics](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems)
+	- **Cognition**: Active Inference
+	- **Mathematics**: [[Category Theory]], 
+		- https://bartoszmilewski.com/2023/09/19/exercise-in-coherence/
+		- https://github.com/bgavran/Category_Theory_Machine_Learning
+		- https://en.wikipedia.org/wiki/Transfinite_number
+		- https://juliapoo.github.io/mathematics/2022/12/15/homomorphism-illustrated.html
+		- https://www.localcharts.org/t/learning-resources-for-applied-category-theory/8285
+		- https://cybercat.institute/2024/04/12/enriched-closed-lenses/
+		- https://github.com/prathyvsh/category-theory-resources
+		- https://github.com/statusfailed/catgrad
+		- https://github.com/abuseofnotation/category-theory-illustrated
+		- https://clowderproject.com/ ; https://github.com/topological-modular-forms/the-clowder-project
+	- 
+	- ...
+- **Other concepts**: [[Mealy machines]], Bi-directional programming languages, Para lenses, [Higher-order Laplacian Renormalization](https://github.com/nplresearch/higher_order_LRG), 
 
-- "Creative Coding" ; *Mostly some art-related things. But clearly a lot of practical potential there too.*
+- **"Creative Coding"** ; *Mostly some art-related things. But clearly a lot of practical potential there too.*
 	- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file),[thi-ng](https://github.com/thi-ng/umbrella?tab=readme-ov-file), 
 
 - [ ] https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems
