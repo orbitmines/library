@@ -120,24 +120,21 @@
 
 Also relevant for [[Project - Computer Networking, Security, Encryption  & Communication (2025?)]]
 
-- HSA, HIP, CUDA, AMD, AQL,  
-- **Wikipedia**: [Interactive_Disassembler](https://en.wikipedia.org/wiki/Interactive_Disassembler)
+- HSA, HIP, CUDA, AMD, AQL, rocm
+- **Wikipedia**: [Interactive_Disassembler](https://en.wikipedia.org/wiki/Interactive_Disassembler), [](https://en.wikipedia.org/wiki/STMicroelectronics)
 - **GPU**: [GPUOpen-Tools](https://github.com/GPUOpen-Tools)
 	- **AMD**: [AMDGPU debugger](https://lists.freedesktop.org/archives/amd-gfx/2017-February/005122.html), [UMR (User Mode Register Debugger for AMDGPU Hardware)](https://gitlab.freedesktop.org/tomstdenis/umr)
 - **Pointers from people**: [Marcell Kiss' blog](https://martty.github.io/), [Maister's Graphics Adventures](https://themaister.net/blog/), 
 - **Runtime Tools**: [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer), [[sandsifter]], [[rosenbridge]], [[Reptar]], [[PTEditor]]
-- **Emulators**: [Synopsys ]
+- **Emulators**: [Synopsys Unified Emulation and Prototyping System](https://www.synopsys.com/verification/emulation/zebu-ep1.html)
 
 - 
 	- [ ] 
 	- [ ] 
 	- [ ] https://www.semanticscholar.org/paper/TOWARDS-HIGHER-DIMENSIONAL-REWRITING-THEORY-Mimram/a88710b141afeb7bcee157e56beff635dcfb4350
 	- [ ] https://github.com/cda-tum
-	- [ ] https://github.com/totogo/awesome-knowledge-graph
-	
-		- [ ] https://www.synopsys.com/verification/emulation/zebu-ep1.html
-	- [ ] rocm (amd)
-	- [ ] https://en.wikipedia.org/wiki/STMicroelectronics
+
+	- [ ] h
 	- [ ] [Tenstorrent](https://github.com/tenstorrent)
 	- [ ] [VHDL (VHSIC Hardware Description Language)](https://en.m.wikipedia.org/wiki/VHDL)
 	- Compiler toolchains etc..
@@ -191,7 +188,7 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 
 - [[Liubov Tupikina]]'s projects ([GitHub](https://github.com/Liyubov?tab=repositories))
 - Followed projects/people on other platforms (& some distance/filter away as preference)
-- **GitHub topics**: [interaction-design](https://github.com/topics/interaction-design), [procedural-generation](https://github.com/topics/procedural-generation), [probabilistic-programming](https://github.com/topics/probabilistic-programming), [awesome](https://github.com/topics/awesome), [cellular-automata](https://github.com/topics/cellular-automata), [computational-design](https://github.com/topics/computational-design), [awesome-applied-category-theory](https://github.com/jules-hedges/awesome-applied-category-theory), [visualization](https://github.com/topics/visualization), [graph-rewriting](https://github.com/topics/graph-rewriting), [differentiable-rendering](https://github.com/topics/differentiable-rendering), [gamedev](https://github.com/topics/gamedev), [interaction-design](https://github.com/topics/interaction-design), 
+- **GitHub topics**: [interaction-design](https://github.com/topics/interaction-design), [procedural-generation](https://github.com/topics/procedural-generation), [probabilistic-programming](https://github.com/topics/probabilistic-programming), [awesome](https://github.com/topics/awesome) ([awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph)), [cellular-automata](https://github.com/topics/cellular-automata), [computational-design](https://github.com/topics/computational-design), [awesome-applied-category-theory](https://github.com/jules-hedges/awesome-applied-category-theory), [visualization](https://github.com/topics/visualization), [graph-rewriting](https://github.com/topics/graph-rewriting), [differentiable-rendering](https://github.com/topics/differentiable-rendering), [gamedev](https://github.com/topics/gamedev), [interaction-design](https://github.com/topics/interaction-design), 
 - **Wikipedia**: [Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization), [T-distributed_stochastic_neighbor_embedding](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding), [Distributive_property](https://en.wikipedia.org/wiki/Distributive_property), [Satisfiability_modulo_theories](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories), [Forbidden_graph_characterization](https://en.wikipedia.org/wiki/Forbidden_graph_characterization)
 - **Forums**
 	- [Proof Assistants StackExchange](https://proofassistants.stackexchange.com/), all stack exchanges,
