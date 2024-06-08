@@ -142,6 +142,7 @@
 		- [Computer science laboratory of the École Polytechnique](https://www.lix.polytechnique.fr/team/5/view)
 	- **Other fields**: Biology ([[PENDING (2028+?); Biology]]), Chemistry, ...
 		- [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev)
+	- **Other concepts**
 - From [[Category Theory]]
 	- https://bartoszmilewski.com/2023/09/19/exercise-in-coherence/
 	- https://github.com/bgavran/Category_Theory_Machine_Learning
@@ -173,7 +174,7 @@
 		- [ ] https://mally.stanford.edu/cm/
 		- [ ] https://page.mi.fu-berlin.de/cbenzmueller/compmeta/htdocs/
 - 
-	- [[Mealy machines]]
+	- 
 	- Bi-directional programming languages (Monoidal cafe?). Same with the [[Category Theory]] para lenses etc.. just the ray selection (arbitrarily branching)?
 - https://en.wikipedia.org/wiki/Forbidden_graph_characterization
 - https://github.com/NEASQC/qrbs
