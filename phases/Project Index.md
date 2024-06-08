@@ -140,8 +140,7 @@
 	- [Formalizing Mathematics in Agda (berenoguz)](https://github.com/berenoguz/Math)
 	- [Formal Methods: Foundations and Applications](https://books.google.nl/books?hl=en&lr=lang_en&id=vznnEAAAQBAJ&oi=fnd&pg=PP6&ots=JAO2M-hF-_&sig=mbPYLt3UOr6fCMEKheQQ3-sVeao&redir_esc=y#v=onepage&q&f=false)
 	- [Computer science laboratory of the École Polytechnique](https://www.lix.polytechnique.fr/team/5/view)
-	- **Pointers from people**: [Inigo Quilez's articles](https://iquilezles.org/articles/), [Jesper Cockx's links](https://jesper.sikanda.be/links.html), [Nik Murzin's github](https://github.com/sw1sh), 
-	- 
+	- **Pointers from people**: [Inigo Quilez's articles](https://iquilezles.org/articles/), [Jesper Cockx's links](https://jesper.sikanda.be/links.html), [Nik Murzin's github](https://github.com/sw1sh), [Joseph Amadee Goguen's "What's Cool"](https://cseweb.ucsd.edu/~goguen/cool.html)
 - **Other fields**: 
 	- **Biology** ([[PENDING (2028+?); Biology]]):
 	- **Chemistry**
@@ -166,7 +165,6 @@
 	- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file),[thi-ng](https://github.com/thi-ng/umbrella?tab=readme-ov-file), 
 
 - 
-- https://cseweb.ucsd.edu/~goguen/cool.html [[Joseph Amadee Goguen]]
 - https://docs.google.com/document/d/1kD7H4E28656ua8jOGZ934nbH2HcBLyxcRgFDduH5iQ0/mobilebasic
 - https://prooftheory.blog/resources/
 - https://geometricdeeplearning.com/blogs/
