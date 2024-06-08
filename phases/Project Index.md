@@ -145,8 +145,9 @@
 		- **Chemistry**
 		- **Physics**: [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev), [Computational Metaphysics](https://mally.stanford.edu/cm/) ([DFG Computational Metaphysics](https://page.mi.fu-berlin.de/cbenzmueller/compmeta/htdocs/)),  
 		- **Cognition**: Active Inference
+		- **Mathematics**
 		- ...
-	- **Other concepts**: [[Mealy machines]]
+	- **Other concepts**: [[Mealy machines]], Bi-directional programming languages, Para lenses
 - From [[Category Theory]]
 	- https://bartoszmilewski.com/2023/09/19/exercise-in-coherence/
 	- https://github.com/bgavran/Category_Theory_Machine_Learning
@@ -170,9 +171,6 @@
 	    - [ ] https://github.com/sw1sh
 	- [ ] https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems
 
-- 
-	- 
-	- Bi-directional programming languages (Monoidal cafe?). Same with the [[Category Theory]] para lenses etc.. just the ray selection (arbitrarily branching)?
 - https://en.wikipedia.org/wiki/Forbidden_graph_characterization
 - https://github.com/NEASQC/qrbs
 - https://cseweb.ucsd.edu/~goguen/cool.html [[Joseph Amadee Goguen]]
