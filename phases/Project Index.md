@@ -48,6 +48,7 @@
 - Calculus, Calculus of communicating systems, Calculus of Constructions, Coinduction (other statrgies, ... [[nLab]]), [Dawn](https://dawn.googlesource.com/dawn), SInE, LEO-II, Emacs, [Flyspeck project](https://github.com/flyspeck/flyspeck), Fredkin gate, Frobenius algebra, Genaille-Lucas rulers, General-purpose computing on graphics processing units (GPGPU), [Glasgow Haskell Compiler (GHC)](https://www.haskell.org/ghc/), [HypergraphDB](https://github.com/hypergraphdb/hypergraphdb), [IsarMathLib](https://github.com/SKolodynski/IsarMathLib), Intermediate Representation (IR), Interoperable and Confident Set-based Proof Assistants (ICSPA), [JSON-LD](https://github.com/json-ld), Many-sorted logic, [Matryoshka Project](https://github.com/matryoshka-project), Message passing, Modal Type Theory, [OCaml Scientific Computing (OWL)](https://github.com/owlbarn), [Proofcraft](https://proofcraft.systems/), ProofPower, [Qimaera](https://github.com/zamdzhiev/Qimaera), Quaternion, Rust, Simplical Type Theory, Simultaneous Multithreading (SMT), [smt2d](https://github.com/Deducteam/smt2d), Special Commutative Frobenius Algebra (SCFA), Statebox, Superposition calculus, Vampire, Superscalar Processor, [QED](https://github.com/teorth/QED), Topology, K-theory, Univalent Foundations, Reflective Lambda Calculus, Reversible Computation
 - YJIT, ..
 - Git, ..
+- https://github.com/keras-team/keras, https://github.com/CarperAI/OpenELM, https://github.com/intel/dffml  
 - [schema.org](https://github.com/schemaorg),
 
 <div align="center">  
@@ -209,13 +210,9 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 
 ###### Indexing existing archives/knowledge bases for preservation and possible future analysis...
   - 
-  - https://www.pnas.org/, https://figshare.com/, Kaggle.com, arXiv dataset (https://info.arxiv.org/help/bulk_data/index.html), https://www.sciencedirect.com/, https://iopscience.iop.org/, https://dl.acm.org/, [https://en.wikipedia.org/wiki/MathSciNet  ](https://en.wikipedia.org/wiki/MathSciNet)
-  - https://github.com/keras-team/keras (François Chollet)  
-  - https://github.com/CarperAI/OpenELM  
-  - https://huggingface.co/  
+  - https://www.pnas.org/, https://figshare.com/, Kaggle.com, arXiv dataset (https://info.arxiv.org/help/bulk_data/index.html), https://www.sciencedirect.com/, https://iopscience.iop.org/, https://dl.acm.org/, [MathSciNet](https://en.wikipedia.org/wiki/MathSciNet), https://huggingface.co/
   - https://research.tudelft.nl/en/publications/ ( other uniss.)
-  - (collects models & datasets;) https://github.com/intel/dffml  
-  - Theorems/mathematics/proofs/grammers...  
+
   - https://theoretics.episciences.org/
   - https://eprint.iacr.org/
 Some tooling?/datasets  
