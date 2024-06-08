@@ -140,6 +140,8 @@
 		- [Formalizing Mathematics in Agda (berenoguz)](https://github.com/berenoguz/Math)
 		- [Formal Methods: Foundations and Applications](https://books.google.nl/books?hl=en&lr=lang_en&id=vznnEAAAQBAJ&oi=fnd&pg=PP6&ots=JAO2M-hF-_&sig=mbPYLt3UOr6fCMEKheQQ3-sVeao&redir_esc=y#v=onepage&q&f=false)
 		- [Computer science laboratory of the École Polytechnique](https://www.lix.polytechnique.fr/team/5/view)
+		- [Inigo Quilez's articles](https://iquilezles.org/articles/)
+		- 
 	- **Other fields**: 
 		- **Biology** ([[PENDING (2028+?); Biology]]):
 		- **Chemistry**
@@ -158,13 +160,12 @@
 			- https://clowderproject.com/ ; https://github.com/topological-modular-forms/the-clowder-project
 		- 
 		- ...
-	- **Other concepts**: [[Mealy machines]], Bi-directional programming languages, Para lenses
+	- **Other concepts**: [[Mealy machines]], Bi-directional programming languages, Para lenses, [Higher-order Laplacian Renormalization](https://github.com/nplresearch/higher_order_LRG), 
 
 - "Creative Coding" ; *Mostly some art-related things. But clearly a lot of practical potential there too.*
 	- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file),[thi-ng](https://github.com/thi-ng/umbrella?tab=readme-ov-file), 
 
 - 
-	- [ ] https://iquilezles.org/articles/
 	- [ ] https://github.com/nplresearch/higher_order_LRG
 - 
 	- [ ] https://jesper.sikanda.be/links.html
