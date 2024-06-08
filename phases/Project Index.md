@@ -129,7 +129,7 @@
 	- **Wikipedia**: [Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization), [T-distributed_stochastic_neighbor_embedding](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding), [Distributive_property](https://en.wikipedia.org/wiki/Distributive_property)
 	- **Forums**
 		- [Proof Assistants StackExchange](https://proofassistants.stackexchange.com/), all stack exchanges,
-		- [nForum](https://nforum.ncatlab.org/), [OpenWebSearch Community]()
+		- [nForum](https://nforum.ncatlab.org/), [OpenWebSearch Community](https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest), 
 	- **Archives**
 		- [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/), [archive.org](https://archive.org/)
 - , 
@@ -148,8 +148,7 @@
 	- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file),
 
 - 
-	- [ ] https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest
-
+	- [ ] 
 	- [ ] Lot of interesting things here: https://github.com/thi-ng/umbrella?tab=readme-ov-file
 	- [ ] https://iquilezles.org/articles/
 	- [ ] https://github.com/nplresearch/higher_order_LRG
