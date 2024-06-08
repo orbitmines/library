@@ -46,10 +46,11 @@
 
 <div align="center">  
   
-#### Rendering Engine
+## Rendering Engine
 *Interface design, visualization, game, ..., generation projects*
 
 </div>
+---
 
 *Game-side need to be extended a bit as well: Perhaps some merging between here and [[Project - Research towards Designs (2024)#Research of Games, Engines, ...]]*
 
