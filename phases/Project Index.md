@@ -36,6 +36,8 @@
 - https://github.com/Janiczek/apl-in-hvm
 - Carbon lang [[Chandler Carruth]] (https://muxup.com/2024q2/notes-from-the-carbon-panel-session-at-eurollvm)
 - Twemex, explainpaper, lu.ma, noti.st, leanpub.com, conf.tube, openreview, ....
+- huets algorithm, higher-order unification
+
 
 ### Some other names I found but didn't save a link to: 
 - *DisCoPy2, Aletha, Inkresat, F star, smt-comp, starexec, verdict, vau calculus, SF-Calculus, Monoidal Computer, Certora Prover, smt workshop, Imandra, Waldmeister, POG, QuiZX, Globular, proofweb, holyhammer, B, Event-B, TLA+, Atelier B, Rodin, TLAPS, OpenTheory, FoCaLize, Zenon, iProver, CoqinE, veriT, BWare, B-Method, ArchSAT, sel4, HOL4, Flexiformalized math, OMDoc, Schurr 1999, GP/GP2 Plump 2009, GRAPE / Grape PRess - Weber 2017/2021, AGG Taentzer 2004, FUJABA Nickel 2000, GReAT Agrawal 2006, GROOVE Rensik 2004, TPS, PhoX, Markdown, JPEG, JPG, PNG, MINLOG, Jape, ae (alt-ergo), dimacs, iCNF, smtlib, zf (zipperposition), HELM, MathWeb, MathScheme, MathClasses, ForMath Project, Opetopic Type Theory, RedPRL, yaccyt, redtt, PVS, Matita, Guru, Dependent ML, Gallina, Cayenne, Arend*
@@ -57,6 +59,10 @@
 - **Infrastructure**: [The Narya library](https://github.com/threerings/narya)
 - **IDE (Integrated Development Environments)**: [Unit](https://github.com/samuelmtimbo/unit), [Processing](https://processing.org/), [[Obsidian]], [[notion.site]], [typecell](https://www.typecell.org/), [starboard](https://starboard.gg/), Android Studio, 
 - **Games**: [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/), 
+infrastructure/engineering/design things/tools:
+	- https://twitter.com/thatopencompany
+
+
 
 - , [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse), [MarkovJunior](https://github.com/mxgmn/MarkovJunior), [open-game-engine](https://github.com/CyberCat-Institute/open-game-engine), [DGtal](https://github.com/DGtal-team/DGtal), [hg_sdf](https://mercury.sexy/hg_sdf/), [Pixar's OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD), [Pixar's OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv), [three-gpu-pathtracer](https://github.com/richardassar/three-gpu-pathtracer), [TiltBrush](https://www.tiltbrush.com/), [nannou](https://github.com/nannou-org/nannou), [thi-ng/umbrella](https://github.com/thi-ng/umbrella), [toxiclibsjs](https://github.com/hapticdata/toxiclibsjs), [vertexshadeart](https://www.vertexshaderart.com/), [openrndr](https://github.com/openrndr), [vizhub](https://vizhub.com/), [utymap](https://github.com/reinterpretcat/utymap), [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/), [voxel-builder](https://nimadez.github.io/voxel-builder/), [differentiable-graphics](https://tiarkrompf.github.io/notes/?/differentiable-graphics/), [g9](https://github.com/bijection/g9), [Apparatus](https://github.com/cdglabs/apparatus), [sketch-n-sketch](https://github.com/ravichugh/sketch-n-sketch), [observablehq](https://observablehq.com/), [printeff(...)](https://twitter.com/printeff_app), [badspreadsheet](https://github.com/adam-james-v/badspreadsheet), [uwdata/mosaic](https://github.com/uwdata/mosaic), [natto.dev](https://natto.dev/), [Bunkatopics](https://github.com/charlesdedampierre/BunkaTopics), [HoTT Game](https://github.com/thehottgame/theHoTTGame), 
 - https://websim.ai/, https://fframes.studio/, 
@@ -118,7 +124,7 @@
 Also relevant for [[Project - Computer Networking, Security, Encryption  & Communication (2025?)]]
 
 - **Languages, ..., Instruction sets**: HSA, HIP, CUDA, AMD, AQL, rocm, [Tenstorrent](https://github.com/tenstorrent), [XLA](https://openxla.org/), RDNA3 (Tinygrad's RDNA3 emulator), [KVM FrameRelay: Looking Glass](https://github.com/gnif/LookingGlass) & other throughput channels - translate to different port types, [VirtualBox](https://www.virtualbox.org/), Vulkan, WebGL, [WebGPU Shading Language (WGSL)](https://gpuweb.github.io/gpuweb/wgsl/), [WebXR](https://github.com/immersive-web), [wgpu](https://github.com/gfx-rs/wgpu), [GraalVM](https://github.com/oracle/graal), 
-- **Wikipedia**: [Interactive_Disassembler](https://en.wikipedia.org/wiki/Interactive_Disassembler), [STMicroelectronics](https://en.wikipedia.org/wiki/STMicroelectronics), [VHDL (VHSIC Hardware Description Language)](https://en.m.wikipedia.org/wiki/VHDL)
+- **Wikipedia**: [Interactive_Disassembler](https://en.wikipedia.org/wiki/Interactive_Disassembler), [STMicroelectronics](https://en.wikipedia.org/wiki/STMicroelectronics), [VHDL (VHSIC Hardware Description Language)](https://en.m.wikipedia.org/wiki/VHDL), [VkFFT](https://github.com/DTolm/VkFFT), 
 - **GPU**: [GPUOpen-Tools](https://github.com/GPUOpen-Tools), [[Graphics Programming]] ([discord](https://discord.com/invite/Eb7P3wH))
 	- **AMD**: [AMDGPU debugger](https://lists.freedesktop.org/archives/amd-gfx/2017-February/005122.html), [UMR (User Mode Register Debugger for AMDGPU Hardware)](https://gitlab.freedesktop.org/tomstdenis/umr)
 - **Pointers from people**: [Marcell Kiss' blog](https://martty.github.io/), [Maister's Graphics Adventures](https://themaister.net/blog/), 
@@ -132,18 +138,7 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 - **Operating Systems** ([[PENDING (2027?+) ; Operating System]]): NixOS
 - Reading
 	- https://thebookofshaders.com/
-
-	- [ ] 
-		- [ ] https://github.com/NVIDIA/cuda-samples/blob/master/Samples%2F5_Domain_Specific%2FvulkanImageCUDA%2FREADME.md ; cuda interop
-		- [ ] https://github.com/SaschaWillems/Vulkan
-		- [ ] https://github.com/DTolm/VkFFT
-		- [ ] https://git.datenwolf.net/
-	- [ ] 
-
-- Ah, of course, infrastructure/engineering/design things/tools:
-	- https://twitter.com/thatopencompany
-- huets algorithm, higher-order unification, ....
-
+	- https://git.datenwolf.net/
 
 <div align="center">  
   
