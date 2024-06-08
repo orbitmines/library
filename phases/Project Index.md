@@ -44,7 +44,13 @@
 - Git, ..
 - [schema.org](https://github.com/schemaorg),
 
-##### Some Interface design / ... / visualization / game / generation projects
+<div align="center">  
+  
+#### Rendering Engine
+*Interface design / ... / visualization / game / generation projects*
+
+</div>
+
 *Game-side need to be extended a bit as well: Perhaps some merging between here and [[Project - Research towards Designs (2024)#Research of Games, Engines, ...]]*
 
 - [Unit](https://github.com/samuelmtimbo/unit), [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/), [Processing](https://processing.org/), [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse), [MarkovJunior](https://github.com/mxgmn/MarkovJunior), [open-game-engine](https://github.com/CyberCat-Institute/open-game-engine), [DGtal](https://github.com/DGtal-team/DGtal), [hg_sdf](https://mercury.sexy/hg_sdf/), [Pixar's OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD), [Pixar's OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv), [three-gpu-pathtracer](https://github.com/richardassar/three-gpu-pathtracer), [TiltBrush](https://www.tiltbrush.com/), [nannou](https://github.com/nannou-org/nannou), [thi-ng/umbrella](https://github.com/thi-ng/umbrella), [toxiclibsjs](https://github.com/hapticdata/toxiclibsjs), [vertexshadeart](https://www.vertexshaderart.com/), [openrndr](https://github.com/openrndr), [vizhub](https://vizhub.com/), [utymap](https://github.com/reinterpretcat/utymap), [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/), [voxel-builder](https://nimadez.github.io/voxel-builder/), [differentiable-graphics](https://tiarkrompf.github.io/notes/?/differentiable-graphics/), [g9](https://github.com/bijection/g9), [Apparatus](https://github.com/cdglabs/apparatus), [sketch-n-sketch](https://github.com/ravichugh/sketch-n-sketch), [observablehq](https://observablehq.com/), [printeff(...)](https://twitter.com/printeff_app), [badspreadsheet](https://github.com/adam-james-v/badspreadsheet), [uwdata/mosaic](https://github.com/uwdata/mosaic), [natto.dev](https://natto.dev/), [Bunkatopics](https://github.com/charlesdedampierre/BunkaTopics), [HoTT Game](https://github.com/thehottgame/theHoTTGame), 
@@ -100,7 +106,7 @@
 - [ ] https://gamemaker.io/en
 
 #### Universal Version Control
-*Version Control, dependency management, concurrency, causal histories*
+*Version Control, dependency management, concurrency, ..., causal histories*
 
 - [Confluence](https://en.wikipedia.org/wiki/Confluence_(abstract_rewriting)), [Convergence](https://en.wikipedia.org/wiki/Convergence_(logic)), [Commutes](https://en.wikipedia.org/wiki/Commutative_property),  [CRDT](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type) ([CRDTs go brrr (2021)](https://josephg.com/blog/crdts-go-brrr/), [CRDTs: The Hard Parts (2020)](https://www.youtube.com/watch?v=x7drE24geUw)), [Concurrency control](https://en.wikipedia.org/wiki/Concurrency_control), [Riak](https://riak.com/) ([Riak Core - An Erlang Distributed Systems Toolkit (2011)](https://vimeo.com/21772889), [Riak & Dynamo, Five Years Later Presented (2013)](https://www.youtube.com/watch?v=AxG9DROsnqg))
 - Some others [RxDB](https://rxdb.info/), [ShareJS](https://github.com/share), [ottypes](https://github.com/ottypes), [Operational transformation](https://en.wikipedia.org/wiki/Operational_transformation), [IPFS](https://ipfs.tech/), [IPLD](https://ipld.io/), [OrbitDB](https://github.com/orbitdb/orbitdb), [Git](https://en.wikipedia.org/wiki/Git), [Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree), [Vector Clock](https://en.wikipedia.org/wiki/Vector_clock), Plausible Clock, Chain Clock, Interval Tree Clock, Bloom Clock, [Matrix clock](https://en.wikipedia.org/wiki/Matrix_clock), [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
