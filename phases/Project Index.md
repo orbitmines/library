@@ -129,7 +129,8 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 - **Emulators**: [Synopsys Unified Emulation and Prototyping System](https://www.synopsys.com/verification/emulation/zebu-ep1.html)
 - **Networking**: [[Anoma]]
 - **Some random concepts**
-- Floating-Point Arithmetic (there were people who created neat graphs for these, find them? - probably a very neat way of phrasing them in terms of rays ; as in where the ambiguity happens), eNDIAN BASE ENCODING, ..
+	- Floating-Point Arithmetic (there were people who created neat graphs for these, find them? - probably a very neat way of phrasing them in terms of rays ; as in where the ambiguity happens)
+	- Endian base encoding
 
 
 
@@ -177,7 +178,7 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 - **Forums**: [Proof Assistants StackExchange](https://proofassistants.stackexchange.com/), all stack exchanges, [nForum](https://nforum.ncatlab.org/), [OpenWebSearch Community](https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest), 
 - **Archives**: [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/), [archive.org](https://archive.org/), [scholar.archive.org](https://scholar.archive.org/), 
 - **Proof Assistant Projects**: [Formalizing 100 Theorems](https://www.cs.ru.nl/~freek/100/), [tptp.org](https://www.tptp.org/), [ProofWiki](https://proofwiki.org/wiki/Main_Page), [CS208 Interactive Prover](https://personal.cis.strath.ac.uk/robert.atkey/cs208/prover.html), [EuroProofNet](https://europroofnet.github.io/tools/), [Coq "The Tactician"](https://coq-tactician.github.io/), [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/), [The International SAT Competition](http://satcompetition.org/), [Isabelle-Set](https://github.com/kappelmann/Isabelle-Set), [The Proof Theory Blog](https://prooftheory.blog/resources/), [Geometric Deep Learning Blogs](https://geometricdeeplearning.com/blogs/), 
-- **Other collections**: [Readings on computational logic, interactive theorem proving and functional programming](https://github.com/jaalonso/Lecturas_GLC), [Formalizing Mathematics in Agda (berenoguz)](https://github.com/berenoguz/Math), [Formal Methods: Foundations and Applications](https://books.google.nl/books?hl=en&lr=lang_en&id=vznnEAAAQBAJ&oi=fnd&pg=PP6&ots=JAO2M-hF-_&sig=mbPYLt3UOr6fCMEKheQQ3-sVeao&redir_esc=y#v=onepage&q&f=false), [Computer science laboratory of the École Polytechnique](https://www.lix.polytechnique.fr/team/5/view), [AI for Math Resources](https://docs.google.com/document/d/1kD7H4E28656ua8jOGZ934nbH2HcBLyxcRgFDduH5iQ0/mobilebasic), [quantumalgorithms.org](https://github.com/Scinawa/quantumalgorithms.org), [TOWARDS HIGHER-DIMENSIONAL REWRITING THEORY](https://www.semanticscholar.org/paper/TOWARDS-HIGHER-DIMENSIONAL-REWRITING-THEORY-Mimram/a88710b141afeb7bcee157e56beff635dcfb4350)
+- **Other collections**: [Readings on computational logic, interactive theorem proving and functional programming](https://github.com/jaalonso/Lecturas_GLC), [Formalizing Mathematics in Agda (berenoguz)](https://github.com/berenoguz/Math), [Formal Methods: Foundations and Applications](https://books.google.nl/books?hl=en&lr=lang_en&id=vznnEAAAQBAJ&oi=fnd&pg=PP6&ots=JAO2M-hF-_&sig=mbPYLt3UOr6fCMEKheQQ3-sVeao&redir_esc=y#v=onepage&q&f=false), [Computer science laboratory of the École Polytechnique](https://www.lix.polytechnique.fr/team/5/view), [AI for Math Resources](https://docs.google.com/document/d/1kD7H4E28656ua8jOGZ934nbH2HcBLyxcRgFDduH5iQ0/mobilebasic), [quantumalgorithms.org](https://github.com/Scinawa/quantumalgorithms.org), [TOWARDS HIGHER-DIMENSIONAL REWRITING THEORY](https://www.semanticscholar.org/paper/TOWARDS-HIGHER-DIMENSIONAL-REWRITING-THEORY-Mimram/a88710b141afeb7bcee157e56beff635dcfb4350), [learn-anything.xyz](https://learn-anything.xyz/)
 - **Pointers from people**: [Inigo Quilez's articles](https://iquilezles.org/articles/), [Jesper Cockx's links](https://jesper.sikanda.be/links.html), [Nik Murzin's github](https://github.com/sw1sh), [Joseph Amadee Goguen's "What's Cool"](https://cseweb.ucsd.edu/~goguen/cool.html)
 - **Other fields**: 
 	- **Biology** ([[PENDING (2028+?); Biology]]):
@@ -203,15 +204,8 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 - **"Creative Coding"** ; *Mostly some art-related things. But clearly a lot of practical potential there too.*
 	- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file),[thi-ng](https://github.com/thi-ng/umbrella?tab=readme-ov-file), 
 
----
 
 ---
-
-- https://zenodo.org/
-- https://learn-anything.xyz/
-- 
-
-
 
 ###### Indexing existing archives/knowledge bases for preservation and possible future analysis...
   - https://www.ietf.org/,   
