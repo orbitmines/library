@@ -125,9 +125,14 @@
 
 - [[Liubov Tupikina]]'s projects,
 - Followed projects/people on other platforms (& some distance/filter away as preference)
-	- GitHub topics
-	- Wikipedia: [Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization), [T-distributed_stochastic_neighbor_embedding](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding), [Distributive_property](https://en.wikipedia.org/wiki/Distributive_property)
-- [nForum](https://nforum.ncatlab.org/), [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/), [Proof Assistants StackExchange](https://proofassistants.stackexchange.com/), all stack exchanges,
+	- **GitHub topics**: [interaction-design](https://github.com/topics/interaction-design), [procedural-generation](https://github.com/topics/procedural-generation), [probabilistic-programming](https://github.com/topics/probabilistic-programming), [awesome](https://github.com/topics/awesome), [cellular-automata](https://github.com/topics/cellular-automata), [computational-design](https://github.com/topics/computational-design), [awesome-applied-category-theory](https://github.com/jules-hedges/awesome-applied-category-theory), [visualization](https://github.com/topics/visualization), [graph-rewriting](https://github.com/topics/graph-rewriting), [differentiable-rendering](https://github.com/topics/differentiable-rendering), [gamedev](https://github.com/topics/gamedev), [interaction-design](https://github.com/topics/interaction-design), 
+	- **Wikipedia**: [Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization), [T-distributed_stochastic_neighbor_embedding](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding), [Distributive_property](https://en.wikipedia.org/wiki/Distributive_property)
+	- **Forums**
+		- [Proof Assistants StackExchange](https://proofassistants.stackexchange.com/), all stack exchanges,
+		- [nForum](https://nforum.ncatlab.org/)
+	- **Archives**
+		- [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/),
+- , 
 - From [[Category Theory]]
 	- https://bartoszmilewski.com/2023/09/19/exercise-in-coherence/
 	- https://github.com/bgavran/Category_Theory_Machine_Learning
@@ -143,7 +148,6 @@
 	- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file),
 
 - 
-	- [ ] Through GitHub (& search elsewhere) topics: [interaction-design](https://github.com/topics/interaction-design), [procedural-generation](https://github.com/topics/procedural-generation), [probabilistic-programming](https://github.com/topics/probabilistic-programming), [awesome](https://github.com/topics/awesome), [cellular-automata](https://github.com/topics/cellular-automata), [computational-design](https://github.com/topics/computational-design), [awesome-applied-category-theory](https://github.com/jules-hedges/awesome-applied-category-theory), [visualization](https://github.com/topics/visualization), [graph-rewriting](https://github.com/topics/graph-rewriting), [differentiable-rendering](https://github.com/topics/differentiable-rendering), [gamedev](https://github.com/topics/gamedev), [interaction-design](https://github.com/topics/interaction-design), 
 	- [ ] https://github.com/Liyubov?tab=repositories
 	- [ ] https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest
 	- [ ] "Creative coding?" - mostly some art stuff, though probably has some practical applications hidding somewhere too
