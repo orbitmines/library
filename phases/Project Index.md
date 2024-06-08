@@ -114,14 +114,14 @@
 <div align="center">  
   
 ## Low-level systems
-*Hardware, Firmware, embedded systems, dev kits, ..., BIOS*
+*Hardware, Firmware, embedded systems, dev kits, compiler toolchains, ..., BIOS*
 
 </div>
 
 Also relevant for [[Project - Computer Networking, Security, Encryption  & Communication (2025?)]]
 
-- HSA, HIP, CUDA, AMD, AQL, rocm
-- **Wikipedia**: [Interactive_Disassembler](https://en.wikipedia.org/wiki/Interactive_Disassembler), [](https://en.wikipedia.org/wiki/STMicroelectronics)
+- HSA, HIP, CUDA, AMD, AQL, rocm, [Tenstorrent](https://github.com/tenstorrent), [XLA](https://openxla.org/), RDNA3 (Tinygrad's RDNA3 emulator),
+- **Wikipedia**: [Interactive_Disassembler](https://en.wikipedia.org/wiki/Interactive_Disassembler), [STMicroelectronics](https://en.wikipedia.org/wiki/STMicroelectronics), [VHDL (VHSIC Hardware Description Language)](https://en.m.wikipedia.org/wiki/VHDL)
 - **GPU**: [GPUOpen-Tools](https://github.com/GPUOpen-Tools)
 	- **AMD**: [AMDGPU debugger](https://lists.freedesktop.org/archives/amd-gfx/2017-February/005122.html), [UMR (User Mode Register Debugger for AMDGPU Hardware)](https://gitlab.freedesktop.org/tomstdenis/umr)
 - **Pointers from people**: [Marcell Kiss' blog](https://martty.github.io/), [Maister's Graphics Adventures](https://themaister.net/blog/), 
@@ -134,13 +134,8 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 	- [ ] https://www.semanticscholar.org/paper/TOWARDS-HIGHER-DIMENSIONAL-REWRITING-THEORY-Mimram/a88710b141afeb7bcee157e56beff635dcfb4350
 	- [ ] https://github.com/cda-tum
 
-	- [ ] h
-	- [ ] [Tenstorrent](https://github.com/tenstorrent)
-	- [ ] [VHDL (VHSIC Hardware Description Language)](https://en.m.wikipedia.org/wiki/VHDL)
-	- Compiler toolchains etc..
-		- [XLA](https://openxla.org/)
-	- RDNA3, (Tinygrad's RDNA3 emulator) etc..
-	- chiups have these things calls efuses, you can burn them to disable/enable (cant be unburned) ; hardware changes.
+	- [ ] 
+
 	- [ ] https://github.com/gnif/LookingGlass (... others, throughput channels ..)
 	- [ ] https://binvis.io/#/
 	- [ ] [VirtualBox](https://www.virtualbox.org/), Vulkan, WebGL, [WebGPU Shading Language (WGSL)](https://gpuweb.github.io/gpuweb/wgsl/), [WebXR](https://github.com/immersive-web), [wgpu](https://github.com/gfx-rs/wgpu), https://thebookofshaders.com/, https://github.com/oracle/graal,  
