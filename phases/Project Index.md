@@ -58,10 +58,8 @@
 
 - **Infrastructure**: [The Narya library](https://github.com/threerings/narya)
 - **IDE (Integrated Development Environments)**: [Unit](https://github.com/samuelmtimbo/unit), [Processing](https://processing.org/), [[Obsidian]], [[notion.site]], [typecell](https://www.typecell.org/), [starboard](https://starboard.gg/), Android Studio, 
+- **IDE for Infrastructure, Engineering, ..., Design**: https://twitter.com/thatopencompany
 - **Games**: [Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/), 
-infrastructure/engineering/design things/tools:
-	- https://twitter.com/thatopencompany
-
 
 
 - , [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse), [MarkovJunior](https://github.com/mxgmn/MarkovJunior), [open-game-engine](https://github.com/CyberCat-Institute/open-game-engine), [DGtal](https://github.com/DGtal-team/DGtal), [hg_sdf](https://mercury.sexy/hg_sdf/), [Pixar's OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD), [Pixar's OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv), [three-gpu-pathtracer](https://github.com/richardassar/three-gpu-pathtracer), [TiltBrush](https://www.tiltbrush.com/), [nannou](https://github.com/nannou-org/nannou), [thi-ng/umbrella](https://github.com/thi-ng/umbrella), [toxiclibsjs](https://github.com/hapticdata/toxiclibsjs), [vertexshadeart](https://www.vertexshaderart.com/), [openrndr](https://github.com/openrndr), [vizhub](https://vizhub.com/), [utymap](https://github.com/reinterpretcat/utymap), [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/), [voxel-builder](https://nimadez.github.io/voxel-builder/), [differentiable-graphics](https://tiarkrompf.github.io/notes/?/differentiable-graphics/), [g9](https://github.com/bijection/g9), [Apparatus](https://github.com/cdglabs/apparatus), [sketch-n-sketch](https://github.com/ravichugh/sketch-n-sketch), [observablehq](https://observablehq.com/), [printeff(...)](https://twitter.com/printeff_app), [badspreadsheet](https://github.com/adam-james-v/badspreadsheet), [uwdata/mosaic](https://github.com/uwdata/mosaic), [natto.dev](https://natto.dev/), [Bunkatopics](https://github.com/charlesdedampierre/BunkaTopics), [HoTT Game](https://github.com/thehottgame/theHoTTGame), 
@@ -193,12 +191,7 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 - **"Creative Coding"** ; *Mostly some art-related things. But clearly a lot of practical potential there too.*
 	- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file),[thi-ng](https://github.com/thi-ng/umbrella?tab=readme-ov-file), 
 - **Platform Interoperability** ([[ONGOING Project Logistics]]): Telegram, Signal, Whatsapp, Zulip, Slack, GitHub, GitLab, Discord, Matrix, IRC, RSS feed, Substack, arXiv, Research Gate, [[Search Engine Optimization (SEO)]], RMTP, Twitch, YouTube, Facebook, Twitter, Instagram, ...
-
-
----
-
-  - Crawling [[IPFS]]: https://github.com/adlrocha/go-libp2p-crawler  
-  - https://github.com/hartator/wayback-machine-downloader 
+- **Crawling tooling**: https://github.com/adlrocha/go-libp2p-crawler, tps://github.com/hartator/wayback-machine-downloader 
 
 ---
 
