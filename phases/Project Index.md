@@ -209,17 +209,13 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 ---
 
 ###### Indexing existing archives/knowledge bases for preservation and possible future analysis...
-  - 
-  - https://www.pnas.org/, https://figshare.com/, Kaggle.com, arXiv dataset (https://info.arxiv.org/help/bulk_data/index.html), https://www.sciencedirect.com/, https://iopscience.iop.org/, https://dl.acm.org/, [MathSciNet](https://en.wikipedia.org/wiki/MathSciNet), https://huggingface.co/, https://research.tudelft.nl/en/publications/ & other unis, https://theoretics.episciences.org/, https://eprint.iacr.org/
-Some tooling?/datasets  
-  - https://en.wikipedia.org/wiki/Wikipedia:Database_download#Where_do_I_get_it, https://resources.wolframcloud.com/, https://www.wolframphysics.org/archives/index/, https://openlibrary.org/, https://archiveprogram.github.com/  
+
+  - https://www.pnas.org/, https://figshare.com/, Kaggle.com, arXiv dataset (https://info.arxiv.org/help/bulk_data/index.html), https://www.sciencedirect.com/, https://iopscience.iop.org/, https://dl.acm.org/, [MathSciNet](https://en.wikipedia.org/wiki/MathSciNet), https://huggingface.co/, https://research.tudelft.nl/en/publications/ & other unis, https://theoretics.episciences.org/, https://eprint.iacr.org/, https://en.wikipedia.org/wiki/Wikipedia:Database_download#Where_do_I_get_it, https://resources.wolframcloud.com/, https://www.wolframphysics.org/archives/index/, https://openlibrary.org/, https://archiveprogram.github.com/, JSTOR, https://www.connectedpapers.com/, [MacTutor](https://mathshistory.st-andrews.ac.uk/), [Universal ]
  
   - Crawling [[IPFS]]: https://github.com/adlrocha/go-libp2p-crawler  
-  - digital library: [[JSTOR]]  
   - https://github.com/hartator/wayback-machine-downloader  
-  - https://mathshistory.st-andrews.ac.uk/
-  - https://www.connectedpapers.com/
-  - https://universaldependencies.org/
+  - 
+  - 
   - https://open-science-cloud.ec.europa.eu/ & other
   - 
 
