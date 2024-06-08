@@ -144,6 +144,7 @@
 		- **Biology** ([[PENDING (2028+?); Biology]]):
 		- **Chemistry**
 		- **Physics**: [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev)
+		- **Cognition**: Active Inference
 		- ...
 	- **Other concepts**: [[Mealy machines]]
 - From [[Category Theory]]
@@ -169,11 +170,8 @@
 	    - [ ] https://github.com/sw1sh
 	- [ ] https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems
 
-	- [ ] Biology/Chemistry/... other fields
-		- [ ] 
-		- [ ] https://github.com/OpenFOAM/OpenFOAM-dev ... other simulation
-	- [ ] Active Inference, ...
-	- [ ] Computational Metaphysics
+	- [ ] , ...
+	- [ ] 
 		- [ ] https://mally.stanford.edu/cm/
 		- [ ] https://page.mi.fu-berlin.de/cbenzmueller/compmeta/htdocs/
 - 
