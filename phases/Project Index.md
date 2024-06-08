@@ -114,7 +114,7 @@
 <div align="center">  
   
 ## Low-level systems
-*Hardware, Firmware, embedded systems, dev kits, compiler toolchains, ..., BIOS*
+*Hardware, Firmware, embedded systems, dev kits, compiler toolchains, simulators, emulators, ..., BIOS*
 
 </div>
 
@@ -122,7 +122,7 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 
 - HSA, HIP, CUDA, AMD, AQL, rocm, [Tenstorrent](https://github.com/tenstorrent), [XLA](https://openxla.org/), RDNA3 (Tinygrad's RDNA3 emulator),
 - **Wikipedia**: [Interactive_Disassembler](https://en.wikipedia.org/wiki/Interactive_Disassembler), [STMicroelectronics](https://en.wikipedia.org/wiki/STMicroelectronics), [VHDL (VHSIC Hardware Description Language)](https://en.m.wikipedia.org/wiki/VHDL)
-- **GPU**: [GPUOpen-Tools](https://github.com/GPUOpen-Tools)
+- **GPU**: [GPUOpen-Tools](https://github.com/GPUOpen-Tools), [[Graphics Programming]] ([discord](https://discord.com/invite/Eb7P3wH))
 	- **AMD**: [AMDGPU debugger](https://lists.freedesktop.org/archives/amd-gfx/2017-February/005122.html), [UMR (User Mode Register Debugger for AMDGPU Hardware)](https://gitlab.freedesktop.org/tomstdenis/umr)
 - **Pointers from people**: [Marcell Kiss' blog](https://martty.github.io/), [Maister's Graphics Adventures](https://themaister.net/blog/), 
 - **Runtime Tools**: [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer), [[sandsifter]], [[rosenbridge]], [[Reptar]], [[PTEditor]]
@@ -140,9 +140,8 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 		- [ ] https://github.com/SaschaWillems/Vulkan
 		- [ ] https://github.com/DTolm/VkFFT
 		- [ ] https://git.datenwolf.net/
-	- [ ] Graphics programming discord: https://discord.com/invite/Eb7P3wH , [[Graphics Programming]]
 	- [ ] 
-- GKEYLL, simulation, emulation, render/physics/.../game engines etc..
+-
 - MuJoCo
 - https://www.mathstat.dal.ca/~selinger/quipper/
 - All the [[PENDING (2027?+) ; Physics (& Hardware)]] things... String theories, Ring Theory, ..., Knot Theory, Graph Percolation Theory, constructor theory etc... 
@@ -189,7 +188,7 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 - **Other fields**: 
 	- **Biology** ([[PENDING (2028+?); Biology]]):
 	- **Chemistry**
-	- **Physics**: [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev), [Computational Metaphysics](https://mally.stanford.edu/cm/) ([DFG Computational Metaphysics](https://page.mi.fu-berlin.de/cbenzmueller/compmeta/htdocs/)), [Mundy Reimer's "On Thermodynamics, Agency, and Living Systems"](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems), 
+	- **Physics**: [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev), [Computational Metaphysics](https://mally.stanford.edu/cm/) ([DFG Computational Metaphysics](https://page.mi.fu-berlin.de/cbenzmueller/compmeta/htdocs/)), [Mundy Reimer's "On Thermodynamics, Agency, and Living Systems"](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems), GKEYLL, 
 	- **Cognition**: Active Inference
 	- **Mathematics**: [[Category Theory]], 
 		- https://bartoszmilewski.com/2023/09/19/exercise-in-coherence/
