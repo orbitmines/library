@@ -124,13 +124,8 @@
 </div>
 
 - [[Liubov Tupikina]]'s projects,
+- Followed projects/people on other platforms
 
-<div align="center">  
-  
-## Other Libraries
-*Existing analysis*
-
-</div>
 
 ### Some other ways of possibly extending this list (non-completed tangents):
 
