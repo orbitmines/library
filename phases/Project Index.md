@@ -132,8 +132,7 @@
 		- [nForum](https://nforum.ncatlab.org/), [OpenWebSearch Community](https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest), 
 	- **Archives**
 		- [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/), [archive.org](https://archive.org/)
-	- **Proof Assistant Projects**: [Formalizing 100 Theorems](https://www.cs.ru.nl/~freek/100/), [tptp.org](https://www.tptp.org/), [ProofWiki](https://proofwiki.org/wiki/Main_Page), [CS208 Interactive Prover](https://personal.cis.strath.ac.uk/robert.atkey/cs208/prover.html), [EuroProofNet](https://europroofnet.github.io/tools/), 
-- , 
+	- **Proof Assistant Projects**: [Formalizing 100 Theorems](https://www.cs.ru.nl/~freek/100/), [tptp.org](https://www.tptp.org/), [ProofWiki](https://proofwiki.org/wiki/Main_Page), [CS208 Interactive Prover](https://personal.cis.strath.ac.uk/robert.atkey/cs208/prover.html), [EuroProofNet](https://europroofnet.github.io/tools/), [Coq "The Tactician"](https://coq-tactician.github.io/), 
 - From [[Category Theory]]
 	- https://bartoszmilewski.com/2023/09/19/exercise-in-coherence/
 	- https://github.com/bgavran/Category_Theory_Machine_Learning
@@ -153,9 +152,8 @@
 	- [ ] https://github.com/nplresearch/higher_order_LRG
 - 
 	- [ ] 
-	- [ ] https://europroofnet.github.io/tools/
 	- [ ] https://wtgowers.github.io/human-style-atp/
-	- [ ] https://coq-tactician.github.io/
+	- [ ] 
 	- [ ] https://github.com/jaalonso/Lecturas_GLC
 	- [ ] https://en.wikipedia.org/wiki/Satisfiability_modulo_theories
 	- [ ] https://github.com/berenoguz/Math
