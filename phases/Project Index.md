@@ -47,7 +47,7 @@
 <div align="center">  
   
 #### Rendering Engine
-*Interface design / ... / visualization / game / generation projects*
+*Interface design, visualization, game, ..., generation projects*
 
 </div>
 
