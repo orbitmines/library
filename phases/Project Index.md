@@ -4,7 +4,7 @@
 3. [Low-level systems]()
 4. [Universal Version Control](#universal-version-control)
 5. [Other Libraries, Collections, ..., Platforms](#other-libraries-collections--platforms)
- 
+
 ---
 
 ### This is a current list of the projects I found so far related to this project - and possibly some to apply the beast to:
@@ -111,7 +111,7 @@
 <div align="center">  
   
 ## Low-level systems
-*Hardware, Firmware, embedded systems, dev kits, compiler toolchains, simulators, emulators, ..., BIOS*
+*Hardware, Firmware, embedded systems, dev kits, compiler toolchains, simulators, emulators, decompilers, ..., BIOS*
 
 </div>
 
@@ -125,6 +125,7 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 - **Runtime Tools**: [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer), [[sandsifter]], [[rosenbridge]], [[Reptar]], [[PTEditor]]
 - **Emulators**: [Synopsys Unified Emulation and Prototyping System](https://www.synopsys.com/verification/emulation/zebu-ep1.html)
 - **Networking**: [[Anoma]]
+- **Hardware Circuits**: [Chair for Design Automation, TU Munich]( https://github.com/cda-tum)
 - **Some random concepts**
 	- Floating-Point Arithmetic (there were people who created neat graphs for these, find them? - probably a very neat way of phrasing them in terms of rays ; as in where the ambiguity happens)
 	- Endian base encoding
