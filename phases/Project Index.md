@@ -128,7 +128,7 @@
 - [[Liubov Tupikina]]'s projects ([GitHub](https://github.com/Liyubov?tab=repositories))
 - Followed projects/people on other platforms (& some distance/filter away as preference)
 	- **GitHub topics**: [interaction-design](https://github.com/topics/interaction-design), [procedural-generation](https://github.com/topics/procedural-generation), [probabilistic-programming](https://github.com/topics/probabilistic-programming), [awesome](https://github.com/topics/awesome), [cellular-automata](https://github.com/topics/cellular-automata), [computational-design](https://github.com/topics/computational-design), [awesome-applied-category-theory](https://github.com/jules-hedges/awesome-applied-category-theory), [visualization](https://github.com/topics/visualization), [graph-rewriting](https://github.com/topics/graph-rewriting), [differentiable-rendering](https://github.com/topics/differentiable-rendering), [gamedev](https://github.com/topics/gamedev), [interaction-design](https://github.com/topics/interaction-design), 
-	- **Wikipedia**: [Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization), [T-distributed_stochastic_neighbor_embedding](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding), [Distributive_property](https://en.wikipedia.org/wiki/Distributive_property), [Satisfiability_modulo_theories](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories)
+	- **Wikipedia**: [Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization), [T-distributed_stochastic_neighbor_embedding](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding), [Distributive_property](https://en.wikipedia.org/wiki/Distributive_property), [Satisfiability_modulo_theories](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories), [Forbidden_graph_characterization](https://en.wikipedia.org/wiki/Forbidden_graph_characterization)
 	- **Forums**
 		- [Proof Assistants StackExchange](https://proofassistants.stackexchange.com/), all stack exchanges,
 		- [nForum](https://nforum.ncatlab.org/), [OpenWebSearch Community](https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest), 
@@ -140,7 +140,7 @@
 		- [Formalizing Mathematics in Agda (berenoguz)](https://github.com/berenoguz/Math)
 		- [Formal Methods: Foundations and Applications](https://books.google.nl/books?hl=en&lr=lang_en&id=vznnEAAAQBAJ&oi=fnd&pg=PP6&ots=JAO2M-hF-_&sig=mbPYLt3UOr6fCMEKheQQ3-sVeao&redir_esc=y#v=onepage&q&f=false)
 		- [Computer science laboratory of the École Polytechnique](https://www.lix.polytechnique.fr/team/5/view)
-		- [Inigo Quilez's articles](https://iquilezles.org/articles/)
+		- **Pointers from people**: [Inigo Quilez's articles](https://iquilezles.org/articles/), [Jesper Cockx's links](https://jesper.sikanda.be/links.html), 
 		- 
 	- **Other fields**: 
 		- **Biology** ([[PENDING (2028+?); Biology]]):
@@ -165,15 +165,14 @@
 - "Creative Coding" ; *Mostly some art-related things. But clearly a lot of practical potential there too.*
 	- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file),[thi-ng](https://github.com/thi-ng/umbrella?tab=readme-ov-file), 
 
-- 
-	- [ ] https://github.com/nplresearch/higher_order_LRG
+
 - 
 	- [ ] https://jesper.sikanda.be/links.html
 	    - [ ] & similar lists of people online (i.e. followers of followers)
 	    - [ ] https://github.com/sw1sh
 	- [ ] https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems
 
-- https://en.wikipedia.org/wiki/Forbidden_graph_characterization
+- 
 - https://github.com/NEASQC/qrbs
 - https://cseweb.ucsd.edu/~goguen/cool.html [[Joseph Amadee Goguen]]
 - https://docs.google.com/document/d/1kD7H4E28656ua8jOGZ934nbH2HcBLyxcRgFDduH5iQ0/mobilebasic
