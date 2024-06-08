@@ -1,8 +1,9 @@
 
 1. [Programming Languages]()
 2. [Visualization & Rendering Engines]()
-3. [Universal Version Control](#universal-version-control)
-4. [Other Libraries, Collections, ..., Platforms](#Other Libraries, Collections, ..., Platforms)
+3. [Hardware, Firmware, ..., Low-level operations]
+4. [Universal Version Control](#universal-version-control)
+5. [Other Libraries, Collections, ..., Platforms](#Other Libraries, Collections, ..., Platforms)
 
 - [ ] Whole project makes it necessary to get the practical low-level systems in this too.
 	- [ ] Lookup existing projects in that space, decompilers, interfaces for binary analysis etc..
