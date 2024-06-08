@@ -123,7 +123,7 @@
 
 </div>
 
-- [[Liubov Tupikina]]'s projects,
+- [[Liubov Tupikina]]'s projects ([GitHub](https://github.com/Liyubov?tab=repositories))
 - Followed projects/people on other platforms (& some distance/filter away as preference)
 	- **GitHub topics**: [interaction-design](https://github.com/topics/interaction-design), [procedural-generation](https://github.com/topics/procedural-generation), [probabilistic-programming](https://github.com/topics/probabilistic-programming), [awesome](https://github.com/topics/awesome), [cellular-automata](https://github.com/topics/cellular-automata), [computational-design](https://github.com/topics/computational-design), [awesome-applied-category-theory](https://github.com/jules-hedges/awesome-applied-category-theory), [visualization](https://github.com/topics/visualization), [graph-rewriting](https://github.com/topics/graph-rewriting), [differentiable-rendering](https://github.com/topics/differentiable-rendering), [gamedev](https://github.com/topics/gamedev), [interaction-design](https://github.com/topics/interaction-design), 
 	- **Wikipedia**: [Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization), [T-distributed_stochastic_neighbor_embedding](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding), [Distributive_property](https://en.wikipedia.org/wiki/Distributive_property)
@@ -131,7 +131,7 @@
 		- [Proof Assistants StackExchange](https://proofassistants.stackexchange.com/), all stack exchanges,
 		- [nForum](https://nforum.ncatlab.org/)
 	- **Archives**
-		- [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/),
+		- [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/), [archive.org](https://archive.org/)
 - , 
 - From [[Category Theory]]
 	- https://bartoszmilewski.com/2023/09/19/exercise-in-coherence/
@@ -144,13 +144,12 @@
 	- https://github.com/statusfailed/catgrad
 	- https://github.com/abuseofnotation/category-theory-illustrated
 	- https://clowderproject.com/ ; https://github.com/topological-modular-forms/the-clowder-project
-- "Creative Coding"
+- "Creative Coding" ; *Mostly some art-related things. But clearly a lot of practical potential there too.*
 	- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file),
 
 - 
-	- [ ] https://github.com/Liyubov?tab=repositories
 	- [ ] https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest
-	- [ ] "Creative coding?" - mostly some art stuff, though probably has some practical applications hidding somewhere too
+
 	- [ ] Lot of interesting things here: https://github.com/thi-ng/umbrella?tab=readme-ov-file
 	- [ ] https://iquilezles.org/articles/
 	- [ ] https://github.com/nplresearch/higher_order_LRG
