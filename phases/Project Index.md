@@ -325,7 +325,7 @@ Proof Assistant exploration, [[Proof_assistant.pdf]], [[Formal_verification.pdf]
 
 Platform interop
 [[ONGOING Project Logistics]]
-- [ ] Others.. Telegram, Signal, Whatsapp, Zulip, Slack ..., Matrix, ... ?  IRC, RSS feed, Substack, arXiv, research gate etc..., SEO properties ...
+- [ ] Others.. Telegram, Signal, Whatsapp, Zulip, Slack, mutual Discord servers, ..., Matrix, ... ?  IRC, RSS feed, Substack, arXiv, research gate etc..., SEO properties ...
 	- [ ] (?hosted matrix?)  
 	- [ ] Similarly, link github/gitlab/ prs/... (project descriptions etc..)  
 	- [ ] profile pictures (emotes) .. (account linking..)  
