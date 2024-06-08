@@ -126,6 +126,7 @@
 - [[Liubov Tupikina]]'s projects,
 - Followed projects/people on other platforms (& some distance/filter away as preference)
 - [nForum](https://nforum.ncatlab.org/), [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/), [Proof Assistants StackExchange](https://proofassistants.stackexchange.com/), all stack exchanges,
+- Wikipedia: [Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization), [T-distributed_stochastic_neighbor_embedding]()
 - From [[Category Theory]]
 	- https://bartoszmilewski.com/2023/09/19/exercise-in-coherence/
 	- https://github.com/bgavran/Category_Theory_Machine_Learning
