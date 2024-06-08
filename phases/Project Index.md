@@ -239,35 +239,19 @@ Digesting some wikipedia articles (; mainly as exploratory, not necessarily inte
 Assume all comments on these as quick conclusions drawn from summaries which may themselves be, as well as my interpretation of them, ignorant of the actual writings on the subject:  
   
 - [π-calculus](Π-calculus.pdf), [Universal algebra](Universal_algebra.pdf), [Ambient calculus](Ambient_calculus.pdf), [Church–Turing thesis](Church–Turing_thesis.pdf), [Horseshoe map](Horseshoe_map.pdf)
-- [Hilbert's problems](Hilbert's_problems.pdf), [Hilbert's twenty-fourth problem](Hilbert's_twenty-fourth_problem.pdf), [The Grand Design (book)](The_Grand_Design_(book).pdf)  
+- [Hilbert's problems](Hilbert's_problems.pdf), [Hilbert's twenty-fourth problem](Hilbert's_twenty-fourth_problem.pdf), [The Grand Design (book)](The_Grand_Design_(book).pdf), [Ordinal analysis](Ordinal_analysis.pdf)
 
 
 - [Claude Shannon](Claude_Shannon.pdf)  
 - [Mitchell Feigenbaum](Mitchell_Feigenbaum.pdf)
 - [Hilary Putnam](Hilary_Putnam.pdf) 
 - [David Hilbert](David_Hilbert.pdf)
-
-- [Ordinal analysis](Ordinal_analysis.pdf) ; Spent some effort to understand this.  
-- [Finitary](Finitary.pdf)  
-- [Provability logic](Provability_logic.pdf)  
-- [Self-verifying theories](Self-verifying_theories.pdf)  
-- [Higher-order logic](Higher-order_logic.pdf)  
-- [Alonzo Church](Alonzo_Church.pdf)  
-- [Interpretability logic](Interpretability_logic.pdf)  
-- [Models of scientific inquiry](Models_of_scientific_inquiry.pdf)  
-- [Pluralism (philosophy)](Pluralism_(philosophy).pdf)  
-- [Paraconsistent logic](Paraconsistent_logic.pdf) ; This sort of thing is probably just encoding on the observer's side. And this can likely be encoded into most forms of logic/mathematics? Think it's conceptually close to my conclusions but doesn't make the connection?  
+- [Alonzo Church](Alonzo_Church.pdf)
 - [Graham Priest](Graham_Priest.pdf)  
-- [Constructive empiricism](Constructive_empiricism.pdf)  
-- [Relevance logic](Relevance_logic.pdf)  
-- [Intuitionistic logic](Intuitionistic_logic.pdf)  
-- [Logical constant](Logical_constant.pdf)  
-- [Perspectivism](Perspectivism.pdf)  
 - [Leonard Mlodinow](Leonard_Mlodinow.pdf)  
-- [Instrumentalism](Instrumentalism.pdf)  
-- [HOL (proof assistant)](HOL_(proof_assistant).pdf)  
 - [Dana Scott](Dana_Scott.pdf)  
 - [Gordon Plotkin](Gordon_Plotkin.pdf)  
+
 - [Axiomatic semantics](Axiomatic_semantics.pdf)  
 - [Trusted computing base](Trusted_computing_base.pdf)  
 - [Black box](Black_box.pdf) ; Part not predictably reducible ; not directly with the current available tools, anyway.  
