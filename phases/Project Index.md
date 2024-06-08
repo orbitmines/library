@@ -239,38 +239,15 @@ Digesting some wikipedia articles (; mainly as exploratory, not necessarily inte
 Assume all comments on these as quick conclusions drawn from summaries which may themselves be, as well as my interpretation of them, ignorant of the actual writings on the subject:  
   
 - [π-calculus](Π-calculus.pdf), [Universal algebra](Universal_algebra.pdf), [Ambient calculus](Ambient_calculus.pdf), [Church–Turing thesis](Church–Turing_thesis.pdf), [Horseshoe map](Horseshoe_map.pdf)
-- [Hilbert's problems](Hilbert's_problems.pdf), [Hilbert's twenty-fourth problem](Hilbert's_twenty-fourth_problem.pdf), [The Grand Design (book)](The_Grand_Design_(book).pdf), [Ordinal analysis](Ordinal_analysis.pdf)
+- [Hilbert's problems](Hilbert's_problems.pdf), [Hilbert's twenty-fourth problem](Hilbert's_twenty-fourth_problem.pdf), [The Grand Design (book)](The_Grand_Design_(book).pdf), [Ordinal analysis](Ordinal_analysis.pdf), [Cybernetics](Cybernetics.pdf)
 
-
-- [Claude Shannon](Claude_Shannon.pdf)  
-- [Mitchell Feigenbaum](Mitchell_Feigenbaum.pdf)
-- [Hilary Putnam](Hilary_Putnam.pdf) 
-- [David Hilbert](David_Hilbert.pdf)
-- [Alonzo Church](Alonzo_Church.pdf)
-- [Graham Priest](Graham_Priest.pdf)  
-- [Leonard Mlodinow](Leonard_Mlodinow.pdf)  
-- [Dana Scott](Dana_Scott.pdf)  
-- [Gordon Plotkin](Gordon_Plotkin.pdf)  
-
-- [Axiomatic semantics](Axiomatic_semantics.pdf)  
-- [Trusted computing base](Trusted_computing_base.pdf)  
-- [Black box](Black_box.pdf) ; Part not predictably reducible ; not directly with the current available tools, anyway.  
-- [Grey box model](Grey_box_model.pdf)  
-- [Black box group](Black_box_group.pdf) ; further inquiry into group theory  
-- [Cybernetics](Cybernetics.pdf)  
-- [Radical constructivism](Radical_constructivism.pdf)  
 - [Autopoiesis](Autopoiesis.pdf) ; Maturana himself stated he would "[n]ever use the notion of self-organization ... Operationally it is impossible. That is, if the organization of a thing changes, the thing changes ; Look him up and see if there's anything interesting there.
 - [Humberto Maturana](Humberto_Maturana.pdf) ; Read one of his translated earlier papers? Probably the 1998 one.
-- [Enactivism](Enactivism.pdf)  
-- [Constructivism (philosophy of science)](Constructivism_(philosophy_of_science).pdf)  
-- [Ernst von Glasersfeld](Ernst_von_Glasersfeld.pdf)  
-- [Social constructivism](Social_constructivism.pdf)  
-- [Social constructionism](Social_constructionism.pdf)  
+
 - [Model-dependent realism](Model-dependent_realism.pdf) ; Pretty much exactly along my line of thinking.  
 - [All models are wrong](All_models_are_wrong.pdf) ; Perhaps recite all these topics in the next paper to cover the previous collection of ideas. ; Evidently a lot of it has been permeating through science for some time.
-- [George E. P. Box](George_E._P._Box.pdf)  
 - [Anscombe's quartet](Anscombe's_quartet.pdf) ; Could be characterized as numbers in high volume don't necessarily encode strict positional relationships to each-other as a visual graph would for humans.  
-- [Bonini's paradox](Bonini's_paradox.pdf)  
+- [Bonini's paradox](Bonini's_paradox.pdf) 
 - [Reification (fallacy)](Reification_(fallacy).pdf) ; Constructs/models/patterns/..  
 - [Counterfactual definiteness](Counterfactual_definiteness.pdf)  
 - [Quantum indeterminacy](Quantum_indeterminacy.pdf) ; "In classical physics, experiments of chance, such as coin-tossing and dice-throwing, are deterministic, in the sense that, perfect knowledge of the initial conditions would render outcomes perfectly predictable. The ‘randomness’ stems from ignorance of physical information in the initial toss or throw. In diametrical contrast, in the case of quantum physics, the theorems of Kochen and Specker,[5] the inequalities of John Bell,[6] and experimental evidence of Alain Aspect,[7][8] all indicate that quantum randomness does not stem from any such physical information." ; This latter part is resultant from the idea that we seemingly can't obtain such information according to quantum mechanics right? Which would be similarly ignorance we would currently not be aware until a way around it is formed, or if it is indeed impossible. ; Or I'm completely missing the point and this confusion needs to be sorted.  
