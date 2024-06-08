@@ -145,11 +145,9 @@
 	- https://github.com/abuseofnotation/category-theory-illustrated
 	- https://clowderproject.com/ ; https://github.com/topological-modular-forms/the-clowder-project
 - "Creative Coding" ; *Mostly some art-related things. But clearly a lot of practical potential there too.*
-	- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file),
+	- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file),[thi-ng](https://github.com/thi-ng/umbrella?tab=readme-ov-file), 
 
 - 
-	- [ ] 
-	- [ ] Lot of interesting things here: https://github.com/thi-ng/umbrella?tab=readme-ov-file
 	- [ ] https://iquilezles.org/articles/
 	- [ ] https://github.com/nplresearch/higher_order_LRG
 - 
