@@ -238,18 +238,15 @@ Digesting some wikipedia articles (; mainly as exploratory, not necessarily inte
 
 Assume all comments on these as quick conclusions drawn from summaries which may themselves be, as well as my interpretation of them, ignorant of the actual writings on the subject:  
   
-- [π-calculus](Π-calculus.pdf), [Universal algebra](Universal_algebra.pdf), [Ambient calculus](Ambient_calculus.pdf)  
-- [Church–Turing thesis](Church–Turing_thesis.pdf)  
-- [Horseshoe map](Horseshoe_map.pdf) ; https://www.youtube.com/watch?v=aSbTDJCGyfc&ab_channel=ProfGhristMath  
+- [π-calculus](Π-calculus.pdf), [Universal algebra](Universal_algebra.pdf), [Ambient calculus](Ambient_calculus.pdf), [Church–Turing thesis](Church–Turing_thesis.pdf), [Horseshoe map](Horseshoe_map.pdf)
+- [Hilbert's problems](Hilbert's_problems.pdf), [Hilbert's twenty-fourth problem](Hilbert's_twenty-fourth_problem.pdf), [The Grand Design (book)](The_Grand_Design_(book).pdf)  
+
+
 - [Claude Shannon](Claude_Shannon.pdf)  
-- [Mitchell Feigenbaum](Mitchell_Feigenbaum.pdf)  
-- [Unobservable](Unobservable.pdf)  
-- [Hilary Putnam](Hilary_Putnam.pdf)  
-- [David Hilbert](David_Hilbert.pdf) ; Still deeper dive into the mathematics soon...  
-- [Hilbert's problems](Hilbert's_problems.pdf)  
-- [Hilbert's twenty-fourth problem](Hilbert's_twenty-fourth_problem.pdf)  
-- [The Grand Design (book)](The_Grand_Design_(book).pdf)  
-- [Proof theory](Proof_theory.pdf)  
+- [Mitchell Feigenbaum](Mitchell_Feigenbaum.pdf)
+- [Hilary Putnam](Hilary_Putnam.pdf) 
+- [David Hilbert](David_Hilbert.pdf)
+
 - [Ordinal analysis](Ordinal_analysis.pdf) ; Spent some effort to understand this.  
 - [Finitary](Finitary.pdf)  
 - [Provability logic](Provability_logic.pdf)  
