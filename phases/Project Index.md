@@ -132,6 +132,7 @@
 		- [nForum](https://nforum.ncatlab.org/), [OpenWebSearch Community](https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest), 
 	- **Archives**
 		- [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/), [archive.org](https://archive.org/)
+	- **Proof Assistant Projects**: [Formalizing 100 Theorems]()
 - , 
 - From [[Category Theory]]
 	- https://bartoszmilewski.com/2023/09/19/exercise-in-coherence/
