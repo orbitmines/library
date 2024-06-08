@@ -1,7 +1,7 @@
 
 1. [Programming Languages]()
 2. [Visualization & Rendering Engines]()
-3. [Low-level systems: Hardware, Firmware, ..., BIOS]()
+3. [Low-level systems]()
 4. [Universal Version Control](#universal-version-control)
 5. [Other Libraries, Collections, ..., Platforms](#Other Libraries, Collections, ..., Platforms)
 
@@ -111,7 +111,13 @@
 - [ ] https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1
 - [ ] https://gamemaker.io/en
 
-- Hardware/firmware/embedded systems etc... (*TODO Actually expand this list...*)
+<div align="center">  
+  
+## Low-level systems
+*Hardware, Firmware, embedded systems, ..., BIOS*
+
+</div>
+
 	- HSA, HIP, CUDA, firmware, ..... 
 	- [ ] https://en.wikipedia.org/wiki/Interactive_Disassembler
 	- [ ] https://github.com/GPUOpen-Tools,
