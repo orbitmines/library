@@ -204,7 +204,7 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 
 - **"Creative Coding"** ; *Mostly some art-related things. But clearly a lot of practical potential there too.*
 	- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file),[thi-ng](https://github.com/thi-ng/umbrella?tab=readme-ov-file), 
-- **Platform Interoperability**: Telegram, Signal, Whatsapp, Zulip, Slack, GitHub, GitLab, Discord, Matrix, IRC, RSS feed, Substack, arXiv, research gate etc..., [[Search Engine Optimization (SEO)]], 
+- **Platform Interoperability** ([[ONGOING Project Logistics]]): Telegram, Signal, Whatsapp, Zulip, Slack, GitHub, GitLab, Discord, Matrix, IRC, RSS feed, Substack, arXiv, Research Gate, [[Search Engine Optimization (SEO)]], RMTP, Twitch, YouTube, Facebook, Twitter, ...
 
 
 ---
@@ -216,15 +216,13 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 
 Platform interop
 [[ONGOING Project Logistics]]
-- [ ] Others.. Telegram, Signal, Whatsapp, Zulip, Slack, GitHub, GitLab, mutual Discord servers, ..., Matrix, ... ?  IRC, RSS feed, Substack, arXiv, research gate etc..., SEO properties ...
+- 
 	- [ ] (?hosted matrix?)  
 	- [ ] Similarly, link github/gitlab/ prs/... (project descriptions etc..)  
 	- [ ] profile pictures (emotes) .. (account linking..)  
 		- [ ] Just use "@OrbitMines (bot) some link/code"  
 		- [ ] ; make that one available through the protocol too)  - RMTP//...
-	- [ ] Status etc..
-- [ ] Intercompilation images..
-- [ ] Cross boundaries of things/communication ; basically this as the general pattern for all of this
+
 [[PENDING (2027?+) ; Operating System]]
 - NixOS
 
