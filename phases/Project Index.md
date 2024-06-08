@@ -140,6 +140,8 @@
 		- [Formalizing Mathematics in Agda (berenoguz)](https://github.com/berenoguz/Math)
 		- [Formal Methods: Foundations and Applications](https://books.google.nl/books?hl=en&lr=lang_en&id=vznnEAAAQBAJ&oi=fnd&pg=PP6&ots=JAO2M-hF-_&sig=mbPYLt3UOr6fCMEKheQQ3-sVeao&redir_esc=y#v=onepage&q&f=false)
 		- [Computer science laboratory of the École Polytechnique](https://www.lix.polytechnique.fr/team/5/view)
+	- **Other fields**: Biology ([[PENDING (2028+?); Biology]]), Chemistry, ...
+		- [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev)
 - From [[Category Theory]]
 	- https://bartoszmilewski.com/2023/09/19/exercise-in-coherence/
 	- https://github.com/bgavran/Category_Theory_Machine_Learning
@@ -164,7 +166,7 @@
 	- [ ] https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems
 
 	- [ ] Biology/Chemistry/... other fields
-		- [ ] [[PENDING (2028+?); Biology]]
+		- [ ] 
 		- [ ] https://github.com/OpenFOAM/OpenFOAM-dev ... other simulation
 	- [ ] Active Inference, ...
 	- [ ] Computational Metaphysics
