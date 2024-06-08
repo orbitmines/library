@@ -3,6 +3,7 @@ GitHub:
   - https://github.com/tinygrad
 Website:
   - https://tinygrad.org/
+  - https://docs.tinygrad.org/
 Discord:
   - https://discord.gg/ZjZadyC7PK
 Email:
