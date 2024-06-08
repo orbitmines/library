@@ -132,11 +132,12 @@
 		- [nForum](https://nforum.ncatlab.org/), [OpenWebSearch Community](https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest), 
 	- **Archives**
 		- [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/), [archive.org](https://archive.org/)
-	- **Proof Assistant Projects**: [Formalizing 100 Theorems](https://www.cs.ru.nl/~freek/100/), [tptp.org](https://www.tptp.org/), [ProofWiki](https://proofwiki.org/wiki/Main_Page), [CS208 Interactive Prover](https://personal.cis.strath.ac.uk/robert.atkey/cs208/prover.html), [EuroProofNet](https://europroofnet.github.io/tools/), [Coq "The Tactician"](https://coq-tactician.github.io/), [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/)
+	- **Proof Assistant Projects**: [Formalizing 100 Theorems](https://www.cs.ru.nl/~freek/100/), [tptp.org](https://www.tptp.org/), [ProofWiki](https://proofwiki.org/wiki/Main_Page), [CS208 Interactive Prover](https://personal.cis.strath.ac.uk/robert.atkey/cs208/prover.html), [EuroProofNet](https://europroofnet.github.io/tools/), [Coq "The Tactician"](https://coq-tactician.github.io/), [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/), [The International SAT Competition](http://satcompetition.org/), 
 	- **Other collections**
 		- [Readings on computational logic, interactive theorem proving and functional programming](https://github.com/jaalonso/Lecturas_GLC)
 		- [Formalizing Mathematics in Agda (berenoguz)](https://github.com/berenoguz/Math)
-		- [Formal Methods: Founda]
+		- [Formal Methods: Foundations and Applications](https://books.google.nl/books?hl=en&lr=lang_en&id=vznnEAAAQBAJ&oi=fnd&pg=PP6&ots=JAO2M-hF-_&sig=mbPYLt3UOr6fCMEKheQQ3-sVeao&redir_esc=y#v=onepage&q&f=false)
+		- [Computer science laboratory of the École Polytechnique]()
 - From [[Category Theory]]
 	- https://bartoszmilewski.com/2023/09/19/exercise-in-coherence/
 	- https://github.com/bgavran/Category_Theory_Machine_Learning
@@ -158,7 +159,6 @@
 	- [ ] 
 	- [ ] https://github.com/alexkrauss/isabelle-zf-experiments
 	- [ ] 
-	- [ ] http://satcompetition.org/
 	- [ ] https://www.lix.polytechnique.fr/team/5/view
 	- [ ] Games
 		- [ ] https://github.com/threerings/narya (accidentally found)
