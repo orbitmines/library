@@ -4,11 +4,7 @@
 3. [Low-level systems]()
 4. [Universal Version Control](#universal-version-control)
 5. [Other Libraries, Collections, ..., Platforms](#other-libraries-collections--platforms)
-
-- [ ] Whole project makes it necessary to get the practical low-level systems in this too.
-	- [ ] Lookup existing projects in that space, decompilers, interfaces for binary analysis etc..
-	- [ ] BIOS..
-
+ 
 ---
 
 ### This is a current list of the projects I found so far related to this project - and possibly some to apply the beast to:
@@ -185,7 +181,7 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 - **Other fields**: 
 	- **Biology** ([[PENDING (2028+?); Biology]]):
 	- **Chemistry**
-	- **Physics**: [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev), [Computational Metaphysics](https://mally.stanford.edu/cm/) ([DFG Computational Metaphysics](https://page.mi.fu-berlin.de/cbenzmueller/compmeta/htdocs/)), [Mundy Reimer's "On Thermodynamics, Agency, and Living Systems"](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems), GKEYLL, MuJoCo, String theories, - [Lorentz invariance](https://en.wikipedia.org/wiki/Lorentz_covariance), [Poincaré invariance](https://en.wikipedia.org/wiki/Poincar%C3%A9_group) (special relativity), [Conformal invariance](https://en.wikipedia.org/wiki/Conformal_symmetry), [Diffeomorphism Invariance](https://en.wikipedia.org/wiki/Diffeomorphism), [General Covariance](https://en.wikipedia.org/wiki/General_covariance) (general relativity)
+	- **Physics**: [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev), [Computational Metaphysics](https://mally.stanford.edu/cm/) ([DFG Computational Metaphysics](https://page.mi.fu-berlin.de/cbenzmueller/compmeta/htdocs/)), [Mundy Reimer's "On Thermodynamics, Agency, and Living Systems"](https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems), GKEYLL, MuJoCo, String theories, [Lorentz invariance](https://en.wikipedia.org/wiki/Lorentz_covariance), [Poincaré invariance](https://en.wikipedia.org/wiki/Poincar%C3%A9_group) (special relativity), [Conformal invariance](https://en.wikipedia.org/wiki/Conformal_symmetry), [Diffeomorphism Invariance](https://en.wikipedia.org/wiki/Diffeomorphism), [General Covariance](https://en.wikipedia.org/wiki/General_covariance) (general relativity), 
 	- **Cognition**: Active Inference, [Numenta](https://numenta.com/neuroscience-research/research-publications/papers/  ), 
 	- **Mathematics**: [[Category Theory]], Ring Theory, Knot Theory, Graph Percolation Theory, Constructor Theory, [Computational Geometry](https://www.computational-geometry.org/), 
 		- https://bartoszmilewski.com/2023/09/19/exercise-in-coherence/
