@@ -209,16 +209,7 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 
 ###### Indexing existing archives/knowledge bases for preservation and possible future analysis...
   - 
-  - 
-  - https://www.pnas.org/  
-  - https://figshare.com/ (; datasets; found after toroidal topology paper)  
-  - Kaggle.com  
-  - arXiv dataset (https://info.arxiv.org/help/bulk_data/index.html)  
-  - https://www.sciencedirect.com/  
-  - other journals...  
-  - https://iopscience.iop.org/  
-  - https://dl.acm.org/  
-  - https://en.wikipedia.org/wiki/MathSciNet  
+  - https://www.pnas.org/, https://figshare.com/, Kaggle.com, arXiv dataset (https://info.arxiv.org/help/bulk_data/index.html), https://www.sciencedirect.com/, https://iopscience.iop.org/, https://dl.acm.org/, [https://en.wikipedia.org/wiki/MathSciNet  ](https://en.wikipedia.org/wiki/MathSciNet)
   - https://github.com/keras-team/keras (François Chollet)  
   - https://github.com/CarperAI/OpenELM  
   - https://huggingface.co/  
