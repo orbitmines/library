@@ -111,13 +111,13 @@
 <div align="center">  
   
 ## Low-level systems
-*Hardware, Firmware, embedded systems, dev kits, compiler toolchains, simulators, emulators, decompilers, ..., BIOS*
+*Hardware, Firmware, embedded systems, dev kits, compiler toolchains, simulators, emulators, decompilers, assemblies, ..., BIOS*
 
 </div>
 
 Also relevant for [[Project - Computer Networking, Security, Encryption  & Communication (2025?)]]
 
-- HSA, HIP, CUDA, AMD, AQL, rocm, [Tenstorrent](https://github.com/tenstorrent), [XLA](https://openxla.org/), RDNA3 (Tinygrad's RDNA3 emulator), [KVM FrameRelay: Looking Glass](https://github.com/gnif/LookingGlass) & other throughput channels - translate to different port types, 
+- **Languages, ..., Instruction sets**: HSA, HIP, CUDA, AMD, AQL, rocm, [Tenstorrent](https://github.com/tenstorrent), [XLA](https://openxla.org/), RDNA3 (Tinygrad's RDNA3 emulator), [KVM FrameRelay: Looking Glass](https://github.com/gnif/LookingGlass) & other throughput channels - translate to different port types, [VirtualBox](https://www.virtualbox.org/), Vulkan, WebGL, [WebGPU Shading Language (WGSL)](https://gpuweb.github.io/gpuweb/wgsl/), [WebXR](https://github.com/immersive-web), [wgpu](https://github.com/gfx-rs/wgpu),
 - **Wikipedia**: [Interactive_Disassembler](https://en.wikipedia.org/wiki/Interactive_Disassembler), [STMicroelectronics](https://en.wikipedia.org/wiki/STMicroelectronics), [VHDL (VHSIC Hardware Description Language)](https://en.m.wikipedia.org/wiki/VHDL)
 - **GPU**: [GPUOpen-Tools](https://github.com/GPUOpen-Tools), [[Graphics Programming]] ([discord](https://discord.com/invite/Eb7P3wH))
 	- **AMD**: [AMDGPU debugger](https://lists.freedesktop.org/archives/amd-gfx/2017-February/005122.html), [UMR (User Mode Register Debugger for AMDGPU Hardware)](https://gitlab.freedesktop.org/tomstdenis/umr)
@@ -132,7 +132,7 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 - **Operating Systems** ([[PENDING (2027?+) ; Operating System]]): NixOS
 
 	- [ ] 
-	- [ ] [VirtualBox](https://www.virtualbox.org/), Vulkan, WebGL, [WebGPU Shading Language (WGSL)](https://gpuweb.github.io/gpuweb/wgsl/), [WebXR](https://github.com/immersive-web), [wgpu](https://github.com/gfx-rs/wgpu), https://thebookofshaders.com/, https://github.com/oracle/graal,  
+	- [ ]  https://thebookofshaders.com/, https://github.com/oracle/graal,  
 		- [ ] https://github.com/SaschaWillems/Vulkan/blob/master/examples%2Foffscreen%2Foffscreen.cpp
 		- [ ] https://github.com/NVIDIA/cuda-samples/blob/master/Samples%2F5_Domain_Specific%2FvulkanImageCUDA%2FREADME.md ; cuda interop
 		- [ ] https://github.com/SaschaWillems/Vulkan
