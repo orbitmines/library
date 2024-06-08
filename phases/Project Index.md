@@ -204,17 +204,13 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 
 - **"Creative Coding"** ; *Mostly some art-related things. But clearly a lot of practical potential there too.*
 	- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file),[thi-ng](https://github.com/thi-ng/umbrella?tab=readme-ov-file), 
+- **Platform Interoperability**: Telegram, Signal, Whatsapp, Zulip, Slack, GitHub, GitLab, Discord, Matrix, IRC, RSS feed, Substack, arXiv, research gate etc..., [[Search Engine Optimization (SEO)]], 
 
 
 ---
 
   - Crawling [[IPFS]]: https://github.com/adlrocha/go-libp2p-crawler  
   - https://github.com/hartator/wayback-machine-downloader 
-
----
-
-Proof Assistant exploration, [[Proof_assistant.pdf]], [[Formal_verification.pdf]], [[Computer-assisted_proof.pdf]], [[Automated_reasoning.pdf]], [[QED_manifesto.pdf]], [[Proof_compression.pdf]]
-,[[Automated_theorem_proving.pdf]], [[Compiler-compiler.pdf]],[[History_of_compiler_construction.pdf]], [[Compiler.pdf]], [[Decompiler.pdf]], [[Corrado Böhm]]
 
 ---
 
