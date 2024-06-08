@@ -124,13 +124,12 @@
 </div>
 
 - [[Liubov Tupikina]]'s projects,
-- Followed projects/people on other platforms
+- Followed projects/people on other platforms (& some distance/filter away as preference)
+- [nForum](https://nforum.ncatlab.org/), 
 
 
 ### Some other ways of possibly extending this list (non-completed tangents):
 
-- [ ] All the people I've followed GitHub, Twitter, Zulip, (mutual Discord servers) etc... & some distance away as preference
-- [ ] Quick/automatic GitHub/.../Gitlab search.
 - [ ] [Cambridge Quantum](https://github.com/CQCL), nForum
 
 - From [[Category Theory]]
@@ -325,7 +324,7 @@ Proof Assistant exploration, [[Proof_assistant.pdf]], [[Formal_verification.pdf]
 
 Platform interop
 [[ONGOING Project Logistics]]
-- [ ] Others.. Telegram, Signal, Whatsapp, Zulip, Slack, mutual Discord servers, ..., Matrix, ... ?  IRC, RSS feed, Substack, arXiv, research gate etc..., SEO properties ...
+- [ ] Others.. Telegram, Signal, Whatsapp, Zulip, Slack, GitHub, GitLab, mutual Discord servers, ..., Matrix, ... ?  IRC, RSS feed, Substack, arXiv, research gate etc..., SEO properties ...
 	- [ ] (?hosted matrix?)  
 	- [ ] Similarly, link github/gitlab/ prs/... (project descriptions etc..)  
 	- [ ] profile pictures (emotes) .. (account linking..)  
