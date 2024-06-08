@@ -130,9 +130,10 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 	- Floating-Point Arithmetic (there were people who created neat graphs for these, find them? - probably a very neat way of phrasing them in terms of rays ; as in where the ambiguity happens)
 	- Endian base encoding
 - **Operating Systems** ([[PENDING (2027?+) ; Operating System]]): NixOS
+- https://thebookofshaders.com/
 
 	- [ ] 
-	- [ ]  https://thebookofshaders.com/, https://github.com/oracle/graal,  
+	- [ ]  , https://github.com/oracle/graal,  
 		- [ ] https://github.com/SaschaWillems/Vulkan/blob/master/examples%2Foffscreen%2Foffscreen.cpp
 		- [ ] https://github.com/NVIDIA/cuda-samples/blob/master/Samples%2F5_Domain_Specific%2FvulkanImageCUDA%2FREADME.md ; cuda interop
 		- [ ] https://github.com/SaschaWillems/Vulkan
