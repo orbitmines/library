@@ -106,7 +106,7 @@
 <div align="center">  
   
 ## Universal Version Control
-*Version Control, dependency management, concurrency, synchronization, ..., causal histories*
+*Version Control, dependency management, concurrency, synchronization, diff tools, ..., causal histories*
 
 </div>
 ---
@@ -118,18 +118,17 @@
 
 <div align="center">  
   
-## 
-*Version Control, dependency management, concurrency, synchronization, ..., causal histories*
+## Other Libraries
+*Existing analysis*
 
 </div>
+---
+- [[Liubov Tupikina]]'s projects,
 
 ### Some other ways of possibly extending this list (non-completed tangents):
 
-- [ ] Like [[Liubov Tupikina]]'s projects ; Papers, all these journals listed below. Associated with code, bridge these things.
-
 - [ ] All the people I've followed GitHub, Twitter, Zulip, (mutual Discord servers) etc... & some distance away as preference
 - [ ] Quick/automatic GitHub/.../Gitlab search.
-- [ ] other diff tools / VCS
 - [ ] [Cambridge Quantum](https://github.com/CQCL), nForum
 
 - From [[Category Theory]]
