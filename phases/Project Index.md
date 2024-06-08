@@ -140,7 +140,7 @@
 		- [Formalizing Mathematics in Agda (berenoguz)](https://github.com/berenoguz/Math)
 		- [Formal Methods: Foundations and Applications](https://books.google.nl/books?hl=en&lr=lang_en&id=vznnEAAAQBAJ&oi=fnd&pg=PP6&ots=JAO2M-hF-_&sig=mbPYLt3UOr6fCMEKheQQ3-sVeao&redir_esc=y#v=onepage&q&f=false)
 		- [Computer science laboratory of the École Polytechnique](https://www.lix.polytechnique.fr/team/5/view)
-		- **Pointers from people**: [Inigo Quilez's articles](https://iquilezles.org/articles/), [Jesper Cockx's links](https://jesper.sikanda.be/links.html), 
+		- **Pointers from people**: [Inigo Quilez's articles](https://iquilezles.org/articles/), [Jesper Cockx's links](https://jesper.sikanda.be/links.html), [Nik Murzin's github](https://github.com/sw1sh), 
 		- 
 	- **Other fields**: 
 		- **Biology** ([[PENDING (2028+?); Biology]]):
@@ -165,14 +165,8 @@
 - "Creative Coding" ; *Mostly some art-related things. But clearly a lot of practical potential there too.*
 	- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file),[thi-ng](https://github.com/thi-ng/umbrella?tab=readme-ov-file), 
 
+- [ ] https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems
 
-- 
-	- [ ] https://jesper.sikanda.be/links.html
-	    - [ ] & similar lists of people online (i.e. followers of followers)
-	    - [ ] https://github.com/sw1sh
-	- [ ] https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems
-
-- 
 - https://github.com/NEASQC/qrbs
 - https://cseweb.ucsd.edu/~goguen/cool.html [[Joseph Amadee Goguen]]
 - https://docs.google.com/document/d/1kD7H4E28656ua8jOGZ934nbH2HcBLyxcRgFDduH5iQ0/mobilebasic
@@ -254,10 +248,8 @@
 - 
 
 ###### Indexing existing archives/knowledge bases for preservation and possible future analysis...
-  - Github  
-  - gitlab  
   - https://www.ietf.org/,   
-  - Google Scholar...  
+  - Google Scholar...
   - https://numenta.com/neuroscience-research/research-publications/papers/  
   - https://www.pnas.org/  
   - https://figshare.com/ (; datasets; found after toroidal topology paper)  
