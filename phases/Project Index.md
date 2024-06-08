@@ -132,6 +132,7 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 - **Some random concepts**
 	- Floating-Point Arithmetic (there were people who created neat graphs for these, find them? - probably a very neat way of phrasing them in terms of rays ; as in where the ambiguity happens)
 	- Endian base encoding
+- **Operating Systems** ([[PENDING (2027?+) ; Operating System]]): NixOS
 
 
 
@@ -204,28 +205,13 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 
 - **"Creative Coding"** ; *Mostly some art-related things. But clearly a lot of practical potential there too.*
 	- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file),[thi-ng](https://github.com/thi-ng/umbrella?tab=readme-ov-file), 
-- **Platform Interoperability** ([[ONGOING Project Logistics]]): Telegram, Signal, Whatsapp, Zulip, Slack, GitHub, GitLab, Discord, Matrix, IRC, RSS feed, Substack, arXiv, Research Gate, [[Search Engine Optimization (SEO)]], RMTP, Twitch, YouTube, Facebook, Twitter, ...
+- **Platform Interoperability** ([[ONGOING Project Logistics]]): Telegram, Signal, Whatsapp, Zulip, Slack, GitHub, GitLab, Discord, Matrix, IRC, RSS feed, Substack, arXiv, Research Gate, [[Search Engine Optimization (SEO)]], RMTP, Twitch, YouTube, Facebook, Twitter, Instagram, ...
 
 
 ---
 
   - Crawling [[IPFS]]: https://github.com/adlrocha/go-libp2p-crawler  
   - https://github.com/hartator/wayback-machine-downloader 
-
----
-
-Platform interop
-[[ONGOING Project Logistics]]
-- 
-	- [ ] (?hosted matrix?)  
-	- [ ] Similarly, link github/gitlab/ prs/... (project descriptions etc..)  
-	- [ ] profile pictures (emotes) .. (account linking..)  
-		- [ ] Just use "@OrbitMines (bot) some link/code"  
-		- [ ] ; make that one available through the protocol too)  - RMTP//...
-
-[[PENDING (2027?+) ; Operating System]]
-- NixOS
-
 
 ---
 
@@ -252,9 +238,7 @@ Digesting some wikipedia articles (; mainly as exploratory, not necessarily inte
 
 Assume all comments on these as quick conclusions drawn from summaries which may themselves be, as well as my interpretation of them, ignorant of the actual writings on the subject:  
   
-- [π-calculus](Π-calculus.pdf)  
-- [Universal algebra](Universal_algebra.pdf)  
-- [Ambient calculus](Ambient_calculus.pdf)  
+- [π-calculus](Π-calculus.pdf), [Universal algebra](Universal_algebra.pdf), [Ambient calculus](Ambient_calculus.pdf)  
 - [Church–Turing thesis](Church–Turing_thesis.pdf)  
 - [Horseshoe map](Horseshoe_map.pdf) ; https://www.youtube.com/watch?v=aSbTDJCGyfc&ab_channel=ProfGhristMath  
 - [Claude Shannon](Claude_Shannon.pdf)  
