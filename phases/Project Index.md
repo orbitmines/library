@@ -127,6 +127,7 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 - **Pointers from people**: [Marcell Kiss' blog](https://martty.github.io/), [Maister's Graphics Adventures](https://themaister.net/blog/), 
 - **Runtime Tools**: [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer), [[sandsifter]], [[rosenbridge]], [[Reptar]], [[PTEditor]]
 - **Emulators**: [Synopsys Unified Emulation and Prototyping System](https://www.synopsys.com/verification/emulation/zebu-ep1.html)
+- **Networking**: [[Anoma]]
 
 
 
@@ -143,7 +144,6 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 	- [ ] 
 
 - https://www.mathstat.dal.ca/~selinger/quipper/
-- Networking... ([[Anoma]])
 - Ah, of course, infrastructure/engineering/design things/tools:
 	- https://twitter.com/thatopencompany
 - dimensional analysis
@@ -175,6 +175,7 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 - Followed projects/people on other platforms (& some distance/filter away as preference)
 - **GitHub topics**: [interaction-design](https://github.com/topics/interaction-design), [procedural-generation](https://github.com/topics/procedural-generation), [probabilistic-programming](https://github.com/topics/probabilistic-programming), [awesome](https://github.com/topics/awesome) ([awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph)), [cellular-automata](https://github.com/topics/cellular-automata), [computational-design](https://github.com/topics/computational-design), [awesome-applied-category-theory](https://github.com/jules-hedges/awesome-applied-category-theory), [visualization](https://github.com/topics/visualization), [graph-rewriting](https://github.com/topics/graph-rewriting), [differentiable-rendering](https://github.com/topics/differentiable-rendering), [gamedev](https://github.com/topics/gamedev), [interaction-design](https://github.com/topics/interaction-design), 
 - **Wikipedia**: [Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization), [T-distributed_stochastic_neighbor_embedding](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding), [Distributive_property](https://en.wikipedia.org/wiki/Distributive_property), [Satisfiability_modulo_theories](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories), [Forbidden_graph_characterization](https://en.wikipedia.org/wiki/Forbidden_graph_characterization), [Game_semantics](https://en.wikipedia.org/wiki/Game_semantics)
+- 
 - **Forums**: [Proof Assistants StackExchange](https://proofassistants.stackexchange.com/), all stack exchanges, [nForum](https://nforum.ncatlab.org/), [OpenWebSearch Community](https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest), 
 - **Archives**: [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/), [archive.org](https://archive.org/), [scholar.archive.org](https://scholar.archive.org/), 
 - **Proof Assistant Projects**: [Formalizing 100 Theorems](https://www.cs.ru.nl/~freek/100/), [tptp.org](https://www.tptp.org/), [ProofWiki](https://proofwiki.org/wiki/Main_Page), [CS208 Interactive Prover](https://personal.cis.strath.ac.uk/robert.atkey/cs208/prover.html), [EuroProofNet](https://europroofnet.github.io/tools/), [Coq "The Tactician"](https://coq-tactician.github.io/), [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/), [The International SAT Competition](http://satcompetition.org/), [Isabelle-Set](https://github.com/kappelmann/Isabelle-Set), [The Proof Theory Blog](https://prooftheory.blog/resources/), [Geometric Deep Learning Blogs](https://geometricdeeplearning.com/blogs/), 
