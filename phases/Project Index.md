@@ -128,6 +128,8 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 - **Runtime Tools**: [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer), [[sandsifter]], [[rosenbridge]], [[Reptar]], [[PTEditor]]
 - **Emulators**: [Synopsys Unified Emulation and Prototyping System](https://www.synopsys.com/verification/emulation/zebu-ep1.html)
 - **Networking**: [[Anoma]]
+- **Some random concepts**
+- Floating-Point Arithmetic (there were people who created neat graphs for these, find them? - probably a very neat way of phrasing them in terms of rays ; as in where the ambiguity happens), eNDIAN BASE ENCODING, ..
 
 
 
@@ -194,7 +196,7 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 		- https://github.com/abuseofnotation/category-theory-illustrated
 		- https://clowderproject.com/ ; https://github.com/topological-modular-forms/the-clowder-project
 	- **Phenomenology**: apparently [also interested](https://twitter.com/JohannesKleiner/status/1762893159044931637) in these things
-	- **Old/Old Linguistics**: [https://en.wikipedia.org/wiki/Cuneiform]
+	- **Old Historics/Old & Linguistics**: [Cuneiform](https://en.wikipedia.org/wiki/Cuneiform), [Hangul](https://en.wikipedia.org/wiki/Hangul )
 	- ...
 - **Other concepts**: [[Mealy machines]], Bi-directional programming languages, Para lenses, [Higher-order Laplacian Renormalization](https://github.com/nplresearch/higher_order_LRG), 
 
@@ -202,12 +204,6 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 	- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file),[thi-ng](https://github.com/thi-ng/umbrella?tab=readme-ov-file), 
 
 ---
-
-### Some more relevant historical stuff: 
-
-- old old & linguistics , https://en.wikipedia.org/wiki/Hangul 
-
-- Floating-Point Arithmetic (there were people who created neat graphs for these, find them? - probably a very neat way of phrasing them in terms of rays ; as in where the ambiguity happens), eNDIAN BASE ENCODING, ..
 
 ---
 
