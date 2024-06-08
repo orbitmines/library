@@ -1,7 +1,7 @@
 
 1. [Programming Languages]()
 2. [Visualization & Rendering Engines]()
-3. [Hardware, Firmware, ..., Low-level operations]
+3. [Low-level systems: Hardware, Firmware, ..., BIOS]()
 4. [Universal Version Control](#universal-version-control)
 5. [Other Libraries, Collections, ..., Platforms](#Other Libraries, Collections, ..., Platforms)
 
@@ -111,6 +111,58 @@
 - [ ] https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1
 - [ ] https://gamemaker.io/en
 
+- Hardware/firmware/embedded systems etc... (*TODO Actually expand this list...*)
+	- HSA, HIP, CUDA, firmware, ..... 
+	- [ ] https://en.wikipedia.org/wiki/Interactive_Disassembler
+	- [ ] https://github.com/GPUOpen-Tools,
+	- [ ] - https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
+	- [ ] https://lists.freedesktop.org/archives/amd-gfx/2017-February/005122.html
+	- [ ] https://martty.github.io/
+	- [ ] https://themaister.net/blog/
+	- [ ] AMD: https://gitlab.freedesktop.org/tomstdenis/umr, AQL ?
+	- [ ] [[Project - Computer Networking, Security, Encryption  & Communication (2025?)]]
+		- [ ] [[sandsifter]], [[rosenbridge]], [[Reptar]], [[PTEditor]]
+- 
+	- [ ] https://github.com/martinescardo/TypeTopology
+	- [ ] https://scholar.archive.org/
+	- [ ] https://www.semanticscholar.org/paper/TOWARDS-HIGHER-DIMENSIONAL-REWRITING-THEORY-Mimram/a88710b141afeb7bcee157e56beff635dcfb4350
+	- [ ] https://github.com/cda-tum
+	- [ ] https://github.com/totogo/awesome-knowledge-graph
+	- [ ] Emulators, ... devkits etc..
+		- [ ] https://www.synopsys.com/verification/emulation/zebu-ep1.html
+	- [ ] rocm (amd)
+	- [ ] https://en.wikipedia.org/wiki/STMicroelectronics
+	- [ ] [Tenstorrent](https://github.com/tenstorrent)
+	- [ ] [VHDL (VHSIC Hardware Description Language)](https://en.m.wikipedia.org/wiki/VHDL)
+	- Compiler toolchains etc..
+		- [XLA](https://openxla.org/)
+	- RDNA3, (Tinygrad's RDNA3 emulator) etc..
+	- chiups have these things calls efuses, you can burn them to disable/enable (cant be unburned) ; hardware changes.
+	- [ ] https://github.com/gnif/LookingGlass (... others, throughput channels ..)
+	- [ ] https://binvis.io/#/
+	- [ ] [VirtualBox](https://www.virtualbox.org/), Vulkan, WebGL, [WebGPU Shading Language (WGSL)](https://gpuweb.github.io/gpuweb/wgsl/), [WebXR](https://github.com/immersive-web), [wgpu](https://github.com/gfx-rs/wgpu), https://thebookofshaders.com/, https://github.com/oracle/graal,  
+		- [ ] https://github.com/SaschaWillems/Vulkan/blob/master/examples%2Foffscreen%2Foffscreen.cpp
+		- [ ] https://github.com/NVIDIA/cuda-samples/blob/master/Samples%2F5_Domain_Specific%2FvulkanImageCUDA%2FREADME.md ; cuda interop
+		- [ ] https://github.com/SaschaWillems/Vulkan
+		- [ ] https://github.com/DTolm/VkFFT
+		- [ ] https://git.datenwolf.net/
+	- [ ] Graphics programming discord: https://discord.com/invite/Eb7P3wH , [[Graphics Programming]]
+	- [ ] 
+- GKEYLL, simulation, emulation, render/physics/.../game engines etc..
+- MuJoCo
+- https://www.mathstat.dal.ca/~selinger/quipper/
+- All the [[PENDING (2027?+) ; Physics (& Hardware)]] things... String theories, Ring Theory, ..., Knot Theory, Graph Percolation Theory, constructor theory etc... 
+	- Expand for any field
+	- https://en.wikipedia.org/wiki/Game_semantics
+	- 
+- Networking... ([[Anoma]])
+- Ah, of course, infrastructure/engineering/design things/tools:
+	- https://twitter.com/thatopencompany
+- dimensional analysis
+- Computational geometry ; https://www.computational-geometry.org/
+- huets algorithm, higher-order unification, ....
+
+
 <div align="center">  
   
 ## Universal Version Control
@@ -165,59 +217,6 @@
 
 - **"Creative Coding"** ; *Mostly some art-related things. But clearly a lot of practical potential there too.*
 	- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file),[thi-ng](https://github.com/thi-ng/umbrella?tab=readme-ov-file), 
-
-- 
-- 
-- Hardware/firmware/embedded systems etc... (*TODO Actually expand this list...*)
-	- HSA, HIP, CUDA, firmware, ..... 
-	- [ ] https://en.wikipedia.org/wiki/Interactive_Disassembler
-	- [ ] https://github.com/GPUOpen-Tools,
-	- [ ] - https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
-	- [ ] https://lists.freedesktop.org/archives/amd-gfx/2017-February/005122.html
-	- [ ] https://martty.github.io/
-	- [ ] https://themaister.net/blog/
-	- [ ] AMD: https://gitlab.freedesktop.org/tomstdenis/umr, AQL ?
-	- [ ] [[Project - Computer Networking, Security, Encryption  & Communication (2025?)]]
-		- [ ] [[sandsifter]], [[rosenbridge]], [[Reptar]], [[PTEditor]]
-- 
-	- [ ] https://github.com/martinescardo/TypeTopology
-	- [ ] https://scholar.archive.org/
-	- [ ] https://www.semanticscholar.org/paper/TOWARDS-HIGHER-DIMENSIONAL-REWRITING-THEORY-Mimram/a88710b141afeb7bcee157e56beff635dcfb4350
-	- [ ] https://github.com/cda-tum
-	- [ ] https://github.com/totogo/awesome-knowledge-graph
-	- [ ] Emulators, ... devkits etc..
-		- [ ] https://www.synopsys.com/verification/emulation/zebu-ep1.html
-	- [ ] rocm (amd)
-	- [ ] https://en.wikipedia.org/wiki/STMicroelectronics
-	- [ ] [Tenstorrent](https://github.com/tenstorrent)
-	- [ ] [VHDL (VHSIC Hardware Description Language)](https://en.m.wikipedia.org/wiki/VHDL)
-	- Compiler toolchains etc..
-		- [XLA](https://openxla.org/)
-	- RDNA3, (Tinygrad's RDNA3 emulator) etc..
-	- chiups have these things calls efuses, you can burn them to disable/enable (cant be unburned) ; hardware changes.
-	- [ ] https://github.com/gnif/LookingGlass (... others, throughput channels ..)
-	- [ ] https://binvis.io/#/
-	- [ ] [VirtualBox](https://www.virtualbox.org/), Vulkan, WebGL, [WebGPU Shading Language (WGSL)](https://gpuweb.github.io/gpuweb/wgsl/), [WebXR](https://github.com/immersive-web), [wgpu](https://github.com/gfx-rs/wgpu), https://thebookofshaders.com/, https://github.com/oracle/graal,  
-		- [ ] https://github.com/SaschaWillems/Vulkan/blob/master/examples%2Foffscreen%2Foffscreen.cpp
-		- [ ] https://github.com/NVIDIA/cuda-samples/blob/master/Samples%2F5_Domain_Specific%2FvulkanImageCUDA%2FREADME.md ; cuda interop
-		- [ ] https://github.com/SaschaWillems/Vulkan
-		- [ ] https://github.com/DTolm/VkFFT
-		- [ ] https://git.datenwolf.net/
-	- [ ] Graphics programming discord: https://discord.com/invite/Eb7P3wH , [[Graphics Programming]]
-	- [ ] 
-- GKEYLL, simulation, emulation, render/physics/.../game engines etc..
-- MuJoCo
-- https://www.mathstat.dal.ca/~selinger/quipper/
-- All the [[PENDING (2027?+) ; Physics (& Hardware)]] things... String theories, Ring Theory, ..., Knot Theory, Graph Percolation Theory, constructor theory etc... 
-	- Expand for any field
-	- https://en.wikipedia.org/wiki/Game_semantics
-	- 
-- Networking... ([[Anoma]])
-- Ah, of course, infrastructure/engineering/design things/tools:
-	- https://twitter.com/thatopencompany
-- dimensional analysis
-- Computational geometry ; https://www.computational-geometry.org/
-- huets algorithm, higher-order unification, ....
 
 ---
 
