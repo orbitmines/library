@@ -118,15 +118,15 @@
 
 </div>
 
-- HSA, HIP, CUDA
+- HSA, HIP, CUDA, AMD, AQL, [UMR (User M)] 
 - **Wikipedia**: [Interactive_Disassembler](https://en.wikipedia.org/wiki/Interactive_Disassembler)
 - **GPU**: [GPUOpen-Tools](https://github.com/GPUOpen-Tools), [AMDGPU debugger](https://lists.freedesktop.org/archives/amd-gfx/2017-February/005122.html) 
-- **Pointers from people**: ([blog](https://martty.github.io/)), 
+- **Pointers from people**: [Marcell Kiss' blog](https://martty.github.io/), [Maister's Graphics Adventures](https://themaister.net/blog/), 
 - **Runtime Tools**: [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)
 - [ ] - 
 - [ ] 
 - [ ] 
-- [ ] https://themaister.net/blog/
+- [ ] 
 - [ ] AMD: https://gitlab.freedesktop.org/tomstdenis/umr, AQL ?
 - [ ] [[Project - Computer Networking, Security, Encryption  & Communication (2025?)]]
 	- [ ] [[sandsifter]], [[rosenbridge]], [[Reptar]], [[PTEditor]]
