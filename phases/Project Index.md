@@ -143,7 +143,7 @@
 	- **Other fields**: 
 		- **Biology** ([[PENDING (2028+?); Biology]]):
 		- **Chemistry**
-		- **Physics**: [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev)
+		- **Physics**: [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev), [Computational Metaphysics](https://mally.stanford.edu/cm/), 
 		- **Cognition**: Active Inference
 		- ...
 	- **Other concepts**: [[Mealy machines]]
@@ -172,7 +172,6 @@
 
 	- [ ] , ...
 	- [ ] 
-		- [ ] https://mally.stanford.edu/cm/
 		- [ ] https://page.mi.fu-berlin.de/cbenzmueller/compmeta/htdocs/
 - 
 	- 
