@@ -194,7 +194,8 @@
 	- [ ] https://martty.github.io/
 	- [ ] https://themaister.net/blog/
 	- [ ] AMD: https://gitlab.freedesktop.org/tomstdenis/umr, AQL ?
-	- [ ] [[sandsifter]], [[rosenbridge]]
+	- [ ] [[Project - Computer Networking, Security, Encryption  & Communication (2025?)]]
+		- [ ] [[sandsifter]], [[rosenbridge]], [[Reptar]], [[PTEditor]]
 - 
 	- [ ] https://github.com/martinescardo/TypeTopology
 	- [ ] https://scholar.archive.org/
