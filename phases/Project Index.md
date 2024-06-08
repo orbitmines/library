@@ -134,12 +134,13 @@
 	- [nForum](https://nforum.ncatlab.org/), [OpenWebSearch Community](https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest), 
 - **Archives**
 	- [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/), [archive.org](https://archive.org/)
-- **Proof Assistant Projects**: [Formalizing 100 Theorems](https://www.cs.ru.nl/~freek/100/), [tptp.org](https://www.tptp.org/), [ProofWiki](https://proofwiki.org/wiki/Main_Page), [CS208 Interactive Prover](https://personal.cis.strath.ac.uk/robert.atkey/cs208/prover.html), [EuroProofNet](https://europroofnet.github.io/tools/), [Coq "The Tactician"](https://coq-tactician.github.io/), [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/), [The International SAT Competition](http://satcompetition.org/), [Isabelle-Set](https://github.com/kappelmann/Isabelle-Set)
+- **Proof Assistant Projects**: [Formalizing 100 Theorems](https://www.cs.ru.nl/~freek/100/), [tptp.org](https://www.tptp.org/), [ProofWiki](https://proofwiki.org/wiki/Main_Page), [CS208 Interactive Prover](https://personal.cis.strath.ac.uk/robert.atkey/cs208/prover.html), [EuroProofNet](https://europroofnet.github.io/tools/), [Coq "The Tactician"](https://coq-tactician.github.io/), [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/), [The International SAT Competition](http://satcompetition.org/), [Isabelle-Set](https://github.com/kappelmann/Isabelle-Set), [The Proof Theory Blog](https://prooftheory.blog/resources/), [Geometric Deep Learning Blogs](https://geometricdeeplearning.com/blogs/), 
 - **Other collections**
 	- [Readings on computational logic, interactive theorem proving and functional programming](https://github.com/jaalonso/Lecturas_GLC)
 	- [Formalizing Mathematics in Agda (berenoguz)](https://github.com/berenoguz/Math)
 	- [Formal Methods: Foundations and Applications](https://books.google.nl/books?hl=en&lr=lang_en&id=vznnEAAAQBAJ&oi=fnd&pg=PP6&ots=JAO2M-hF-_&sig=mbPYLt3UOr6fCMEKheQQ3-sVeao&redir_esc=y#v=onepage&q&f=false)
 	- [Computer science laboratory of the École Polytechnique](https://www.lix.polytechnique.fr/team/5/view)
+	- [AI for Math Resources](https://docs.google.com/document/d/1kD7H4E28656ua8jOGZ934nbH2HcBLyxcRgFDduH5iQ0/mobilebasic)
 	- **Pointers from people**: [Inigo Quilez's articles](https://iquilezles.org/articles/), [Jesper Cockx's links](https://jesper.sikanda.be/links.html), [Nik Murzin's github](https://github.com/sw1sh), [Joseph Amadee Goguen's "What's Cool"](https://cseweb.ucsd.edu/~goguen/cool.html)
 - **Other fields**: 
 	- **Biology** ([[PENDING (2028+?); Biology]]):
@@ -164,18 +165,13 @@
 - **"Creative Coding"** ; *Mostly some art-related things. But clearly a lot of practical potential there too.*
 	- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file),[thi-ng](https://github.com/thi-ng/umbrella?tab=readme-ov-file), 
 
-- 
-- https://docs.google.com/document/d/1kD7H4E28656ua8jOGZ934nbH2HcBLyxcRgFDduH5iQ0/mobilebasic
-- https://prooftheory.blog/resources/
-- https://geometricdeeplearning.com/blogs/
-- https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
-
 - https://github.com/Scinawa/quantumalgorithms.org
 - 
 - Hardware/firmware/embedded systems etc... (*TODO Actually expand this list...*)
 	- HSA, HIP, CUDA, firmware, ..... 
 	- [ ] https://en.wikipedia.org/wiki/Interactive_Disassembler
 	- [ ] https://github.com/GPUOpen-Tools,
+	- [ ] - https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
 	- [ ] https://lists.freedesktop.org/archives/amd-gfx/2017-February/005122.html
 	- [ ] https://martty.github.io/
 	- [ ] https://themaister.net/blog/
