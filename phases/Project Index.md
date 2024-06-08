@@ -126,7 +126,7 @@
 - [[Liubov Tupikina]]'s projects ([GitHub](https://github.com/Liyubov?tab=repositories))
 - Followed projects/people on other platforms (& some distance/filter away as preference)
 	- **GitHub topics**: [interaction-design](https://github.com/topics/interaction-design), [procedural-generation](https://github.com/topics/procedural-generation), [probabilistic-programming](https://github.com/topics/probabilistic-programming), [awesome](https://github.com/topics/awesome), [cellular-automata](https://github.com/topics/cellular-automata), [computational-design](https://github.com/topics/computational-design), [awesome-applied-category-theory](https://github.com/jules-hedges/awesome-applied-category-theory), [visualization](https://github.com/topics/visualization), [graph-rewriting](https://github.com/topics/graph-rewriting), [differentiable-rendering](https://github.com/topics/differentiable-rendering), [gamedev](https://github.com/topics/gamedev), [interaction-design](https://github.com/topics/interaction-design), 
-	- **Wikipedia**: [Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization), [T-distributed_stochastic_neighbor_embedding](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding), [Distributive_property](https://en.wikipedia.org/wiki/Distributive_property), [Satisfiability_modulo_theories]()
+	- **Wikipedia**: [Data and information visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization), [T-distributed_stochastic_neighbor_embedding](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding), [Distributive_property](https://en.wikipedia.org/wiki/Distributive_property), [Satisfiability_modulo_theories](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories)
 	- **Forums**
 		- [Proof Assistants StackExchange](https://proofassistants.stackexchange.com/), all stack exchanges,
 		- [nForum](https://nforum.ncatlab.org/), [OpenWebSearch Community](https://zenodo.org/communities/owseu/records?q=&l=list&p=1&s=10&sort=newest), 
@@ -135,6 +135,7 @@
 	- **Proof Assistant Projects**: [Formalizing 100 Theorems](https://www.cs.ru.nl/~freek/100/), [tptp.org](https://www.tptp.org/), [ProofWiki](https://proofwiki.org/wiki/Main_Page), [CS208 Interactive Prover](https://personal.cis.strath.ac.uk/robert.atkey/cs208/prover.html), [EuroProofNet](https://europroofnet.github.io/tools/), [Coq "The Tactician"](https://coq-tactician.github.io/), [Human-Oriented Automatic Theorem Proving](https://wtgowers.github.io/human-style-atp/)
 	- **Other collections**
 		- [Readings on computational logic, interactive theorem proving and functional programming](https://github.com/jaalonso/Lecturas_GLC)
+		- [Formalizing Mathematics in Agda (berenoguz)](https://github.com/berenoguz/Math)
 - From [[Category Theory]]
 	- https://bartoszmilewski.com/2023/09/19/exercise-in-coherence/
 	- https://github.com/bgavran/Category_Theory_Machine_Learning
@@ -154,8 +155,6 @@
 	- [ ] https://github.com/nplresearch/higher_order_LRG
 - 
 	- [ ] 
-	- [ ] https://en.wikipedia.org/wiki/Satisfiability_modulo_theories
-	- [ ] https://github.com/berenoguz/Math
 	- [ ] https://github.com/alexkrauss/isabelle-zf-experiments
 	- [ ] https://books.google.nl/books?hl=en&lr=lang_en&id=vznnEAAAQBAJ&oi=fnd&pg=PP6&ots=JAO2M-hF-_&sig=mbPYLt3UOr6fCMEKheQQ3-sVeao&redir_esc=y#v=onepage&q&f=false
 	- [ ] http://satcompetition.org/
