@@ -143,7 +143,7 @@
 	- **Other fields**: 
 		- **Biology** ([[PENDING (2028+?); Biology]]):
 		- **Chemistry**
-		- **Physics**: [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev), [Computational Metaphysics](https://mally.stanford.edu/cm/), 
+		- **Physics**: [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev), [Computational Metaphysics](https://mally.stanford.edu/cm/) ([DFG Computational Metaphysics](https://page.mi.fu-berlin.de/cbenzmueller/compmeta/htdocs/)),  
 		- **Cognition**: Active Inference
 		- ...
 	- **Other concepts**: [[Mealy machines]]
@@ -170,9 +170,6 @@
 	    - [ ] https://github.com/sw1sh
 	- [ ] https://mundyreimer.github.io/blog/thermodynamics-agency-livingsystems
 
-	- [ ] , ...
-	- [ ] 
-		- [ ] https://page.mi.fu-berlin.de/cbenzmueller/compmeta/htdocs/
 - 
 	- 
 	- Bi-directional programming languages (Monoidal cafe?). Same with the [[Category Theory]] para lenses etc.. just the ray selection (arbitrarily branching)?
