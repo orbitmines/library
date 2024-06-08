@@ -145,20 +145,21 @@
 		- **Chemistry**
 		- **Physics**: [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-dev), [Computational Metaphysics](https://mally.stanford.edu/cm/) ([DFG Computational Metaphysics](https://page.mi.fu-berlin.de/cbenzmueller/compmeta/htdocs/)),  
 		- **Cognition**: Active Inference
-		- **Mathematics**
+		- **Mathematics**: [[Category Theory]], 
+			- https://bartoszmilewski.com/2023/09/19/exercise-in-coherence/
+			- https://github.com/bgavran/Category_Theory_Machine_Learning
+			- https://en.wikipedia.org/wiki/Transfinite_number
+			- https://juliapoo.github.io/mathematics/2022/12/15/homomorphism-illustrated.html
+			- https://www.localcharts.org/t/learning-resources-for-applied-category-theory/8285
+			- https://cybercat.institute/2024/04/12/enriched-closed-lenses/
+			- https://github.com/prathyvsh/category-theory-resources
+			- https://github.com/statusfailed/catgrad
+			- https://github.com/abuseofnotation/category-theory-illustrated
+			- https://clowderproject.com/ ; https://github.com/topological-modular-forms/the-clowder-project
+		- 
 		- ...
 	- **Other concepts**: [[Mealy machines]], Bi-directional programming languages, Para lenses
-- From [[Category Theory]]
-	- https://bartoszmilewski.com/2023/09/19/exercise-in-coherence/
-	- https://github.com/bgavran/Category_Theory_Machine_Learning
-	- https://en.wikipedia.org/wiki/Transfinite_number
-	- https://juliapoo.github.io/mathematics/2022/12/15/homomorphism-illustrated.html
-	- https://www.localcharts.org/t/learning-resources-for-applied-category-theory/8285
-	- https://cybercat.institute/2024/04/12/enriched-closed-lenses/
-	- https://github.com/prathyvsh/category-theory-resources
-	- https://github.com/statusfailed/catgrad
-	- https://github.com/abuseofnotation/category-theory-illustrated
-	- https://clowderproject.com/ ; https://github.com/topological-modular-forms/the-clowder-project
+
 - "Creative Coding" ; *Mostly some art-related things. But clearly a lot of practical potential there too.*
 	- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file),[thi-ng](https://github.com/thi-ng/umbrella?tab=readme-ov-file), 
 
