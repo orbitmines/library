@@ -19,6 +19,10 @@ Like in the [[Society for Multidisciplinary and Fundamental Research (SEMF)]] li
 
 ---
 
+infinity groupoids which break the recursion of the stack
+
+---
+
 Free category / transitive closure, basically would mean that all the initial/terminal rays are equivalenced - (no distinction / or just interpreted the same) . Or just in one step one can be anywhere.
 
 ---
