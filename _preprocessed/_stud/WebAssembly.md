@@ -22,5 +22,7 @@
 ```
 
 - [[wasm3]], [spec](https://github.com/WebAssembly/spec)
+- https://docs.docker.com/desktop/wasm/
+- 
 
 - [ ] Nice feature of the wasm ~binary is we can export the compress/decompress function from the same binary, and their order in the binary has some invariance. Which simplifies are definition of the search space: We're looking for a dual function export from a single binary~.
