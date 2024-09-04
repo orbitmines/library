@@ -136,6 +136,7 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 - **Wikipedia**: [Interactive_Disassembler](https://en.wikipedia.org/wiki/Interactive_Disassembler), [STMicroelectronics](https://en.wikipedia.org/wiki/STMicroelectronics), [VHDL (VHSIC Hardware Description Language)](https://en.m.wikipedia.org/wiki/VHDL), [VkFFT](https://github.com/DTolm/VkFFT), 
 - **GPU**: [GPUOpen-Tools](https://github.com/GPUOpen-Tools), [[Graphics Programming]] ([discord](https://discord.com/invite/Eb7P3wH))
 	- **AMD**: [AMDGPU debugger](https://lists.freedesktop.org/archives/amd-gfx/2017-February/005122.html), [UMR (User Mode Register Debugger for AMDGPU Hardware)](https://gitlab.freedesktop.org/tomstdenis/umr)
+	- GLSL, HLSL, WGSL, MSL 
 - **Pointers from people**: [Marcell Kiss' blog](https://martty.github.io/), [Maister's Graphics Adventures](https://themaister.net/blog/), 
 - **Runtime/Analysis Tools**: [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer), [[sandsifter]], [[rosenbridge]], [[Reptar]], [[PTEditor]], [binvis.io](https://binvis.io/#/)
 - **Emulators**: [Synopsys Unified Emulation and Prototyping System](https://www.synopsys.com/verification/emulation/zebu-ep1.html)
