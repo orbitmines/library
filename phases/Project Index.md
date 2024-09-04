@@ -132,11 +132,10 @@
 
 Also relevant for [[Project - Computer Networking, Security, Encryption  & Communication (2025?)]]
 
-- **Languages, ..., Instruction sets**: HSA, HIP, CUDA, AMD, AQL, rocm, [Tenstorrent](https://github.com/tenstorrent), [XLA](https://openxla.org/), RDNA3 (Tinygrad's RDNA3 emulator), [KVM FrameRelay: Looking Glass](https://github.com/gnif/LookingGlass) & other throughput channels - translate to different port types, [VirtualBox](https://www.virtualbox.org/), Vulkan, WebGL, [WebGPU Shading Language (WGSL)](https://gpuweb.github.io/gpuweb/wgsl/), [WebXR](https://github.com/immersive-web), [wgpu](https://github.com/gfx-rs/wgpu), [GraalVM](https://github.com/oracle/graal), 
+- **Languages, ..., Instruction sets**: HSA, HIP, CUDA, AMD, AQL, rocm, [Tenstorrent](https://github.com/tenstorrent), [XLA](https://openxla.org/), RDNA3 (Tinygrad's RDNA3 emulator), [KVM FrameRelay: Looking Glass](https://github.com/gnif/LookingGlass) & other throughput channels - translate to different port types, [VirtualBox](https://www.virtualbox.org/), Vulkan, WebGL, GLSL, HLSL, MSL, [WebGPU Shading Language (WGSL)](https://gpuweb.github.io/gpuweb/wgsl/), [WebXR](https://github.com/immersive-web), [wgpu](https://github.com/gfx-rs/wgpu), [GraalVM](https://github.com/oracle/graal), 
 - **Wikipedia**: [Interactive_Disassembler](https://en.wikipedia.org/wiki/Interactive_Disassembler), [STMicroelectronics](https://en.wikipedia.org/wiki/STMicroelectronics), [VHDL (VHSIC Hardware Description Language)](https://en.m.wikipedia.org/wiki/VHDL), [VkFFT](https://github.com/DTolm/VkFFT), 
 - **GPU**: [GPUOpen-Tools](https://github.com/GPUOpen-Tools), [[Graphics Programming]] ([discord](https://discord.com/invite/Eb7P3wH))
 	- **AMD**: [AMDGPU debugger](https://lists.freedesktop.org/archives/amd-gfx/2017-February/005122.html), [UMR (User Mode Register Debugger for AMDGPU Hardware)](https://gitlab.freedesktop.org/tomstdenis/umr)
-	- GLSL, HLSL, WGSL, MSL 
 - **Pointers from people**: [Marcell Kiss' blog](https://martty.github.io/), [Maister's Graphics Adventures](https://themaister.net/blog/), 
 - **Runtime/Analysis Tools**: [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer), [[sandsifter]], [[rosenbridge]], [[Reptar]], [[PTEditor]], [binvis.io](https://binvis.io/#/)
 - **Emulators**: [Synopsys Unified Emulation and Prototyping System](https://www.synopsys.com/verification/emulation/zebu-ep1.html)
