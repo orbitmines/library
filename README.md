@@ -17,7 +17,7 @@ A library for communication between Languages. The *indexing, analysis ..., comp
 
 ---
 ###### Timeline
-- [ ] Prerequisite: [[Writing - 2024. A Universal Language]]
+- [ ] Prerequisite: [[Writing - 2025. A Universal Language]]
 - **Collaboration Setup**
 	- [ ] Collaboration tooling: Create a way of analyzing/comparing them which **does not** include manual human labor of specifying their grammars.
 	- [ ] Compile scripts for this repository, so a writing/study of this can be automatically compiled to some PDF, ..., LaTeX setting.
