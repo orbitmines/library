@@ -7,7 +7,7 @@
 
 # OrbitMines Library
 
-A library for Intercommunication between Languages. The *indexing, analysis ..., comparison* of existing abstract models of *computation, mathematics, calculi, theorem-provers, compilers, proof assistants, automated program synthesizers, ..., (programming) languages*.
+A library for communication between Languages. The *indexing, analysis ..., comparison* of existing abstract models of *computation, mathematics, calculi, theorem-provers, compilers, proof assistants, automated program synthesizers, ..., (programming) languages*.
 
 [![OrbitMines Discord](https://img.shields.io/discord/1055502602365845534.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.orbitmines.com)
 
