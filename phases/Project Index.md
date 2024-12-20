@@ -201,7 +201,7 @@ Also relevant for [[Project - Computer Networking, Security, Encryption  & Commu
 
 - **"Creative Coding"** ; *Mostly some art-related things. But clearly a lot of practical potential there too.*
 	- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file),[thi-ng](https://github.com/thi-ng/umbrella?tab=readme-ov-file), 
-- **Platform Interoperability** ([[ONGOING Project Logistics]]): Telegram, Signal, Whatsapp, Zulip, Slack, GitHub, GitLab, Discord, Matrix, IRC, RSS feed, Substack, arXiv, Research Gate, [[Search Engine Optimization (SEO)]], RMTP, Twitch, YouTube, Facebook, Twitter, Instagram, ...
+- **Platform Interoperability** ([[Project - Logistics]]): Telegram, Signal, Whatsapp, Zulip, Slack, GitHub, GitLab, Discord, Matrix, IRC, RSS feed, Substack, arXiv, Research Gate, [[Search Engine Optimization (SEO)]], RMTP, Twitch, YouTube, Facebook, Twitter, Instagram, ...
 - **Crawling tooling**: https://github.com/adlrocha/go-libp2p-crawler, tps://github.com/hartator/wayback-machine-downloader 
 
 ---
