@@ -28,7 +28,7 @@ A library for communication between Languages. The *indexing, analysis ..., comp
 - **[[Project Index]]**
 	- [ ] Expand
 		- [ ] Version Control
-		- [ ] Game-side (& merge from [[Project - Research towards Designs (2024)#Research of Games, Engines, ...]])
+		- [ ] Game-side (& merge from [[Project - Research towards Designs (2024-2025)#Research of Games, Engines, ...]])
 		- [ ] 
 	- [ ] The only stuff I've been able to find so far is either incredibly limited in scope or is doing too much of this by hand. Would love to find out that there's someone who has been working on this already though.
 	- [ ] **Differentiation:** Measurement of category if diversity for the thing its useful for ; this is essentially the closeness idea ([More usefully: How much do I need to change/ignore before they're the same to me?](https://orbitmines.com/papers/on-orbits-equivalence-and-inconsistencies#:~:text=More%20usefully%3A%20How%20much%20do%20I%20need%20to%20change/ignore%20before%20they%27re%20the%20same%20to%20me%3F)) 
