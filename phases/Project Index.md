@@ -130,7 +130,7 @@
 
 </div>
 
-Also relevant for [[Project - Computer Networking, Security, Encryption  & Communication (2025?)]]
+Also relevant for [[PENDING Project - Computer Networking, Security, Encryption  & Communication (2026?)]]
 
 - **Languages, ..., Instruction sets**: HSA, HIP, CUDA, AMD, AQL, rocm, [Tenstorrent](https://github.com/tenstorrent), [XLA](https://openxla.org/), RDNA3 (Tinygrad's RDNA3 emulator), [KVM FrameRelay: Looking Glass](https://github.com/gnif/LookingGlass) & other throughput channels - translate to different port types, [VirtualBox](https://www.virtualbox.org/), Vulkan, WebGL, GLSL, HLSL, MSL, [WebGPU Shading Language (WGSL)](https://gpuweb.github.io/gpuweb/wgsl/), [WebXR](https://github.com/immersive-web), [wgpu](https://github.com/gfx-rs/wgpu), [GraalVM](https://github.com/oracle/graal), 
 - **Wikipedia**: [Interactive_Disassembler](https://en.wikipedia.org/wiki/Interactive_Disassembler), [STMicroelectronics](https://en.wikipedia.org/wiki/STMicroelectronics), [VHDL (VHSIC Hardware Description Language)](https://en.m.wikipedia.org/wiki/VHDL), [VkFFT](https://github.com/DTolm/VkFFT), 
