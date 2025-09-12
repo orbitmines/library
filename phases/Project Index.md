@@ -48,7 +48,7 @@
 - Carbon lang [[Chandler Carruth]] (https://muxup.com/2024q2/notes-from-the-carbon-panel-session-at-eurollvm)
 - Twemex, explainpaper, lu.ma, noti.st, leanpub.com, conf.tube, openreview, ....
 - huets algorithm, higher-order unification
-- Bidirectional/Reversible programming languages: [Janus](https://en.wikipedia.org/wiki/Janus_(time-reversible_computing_programming_language)), 
+- Bidirectional/Reversible programming languages: [Janus](https://en.wikipedia.org/wiki/Janus_(time-reversible_computing_programming_language)), [An Injective Language for Reversible Computation](https://takeichi.ipl-lab.org/~scm/pub/reversible.pdf?utm_source=chatgpt.com)
 
 
 ### Some other names I found but didn't save a link to: 
